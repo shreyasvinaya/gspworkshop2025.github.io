@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>GSP'23</a>. Address. gspworkshop2023@gmail.com. Moto. Etc.
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - removepages
   pull_request:
     branches:
       - master

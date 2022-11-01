@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>GSP'23</a>. Address. gspworkshop2023@gmail.com. Moto. Etc.
+#subtitle: <a href='#'>GSP'23</a>. Address. gspworkshop2023@gmail.com. Moto. Etc.
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

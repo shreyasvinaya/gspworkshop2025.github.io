@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: 
 permalink: /
 #subtitle: <a href='#'>GSP'23</a>. Address. gspworkshop2023@gmail.com. Moto. Etc.
 

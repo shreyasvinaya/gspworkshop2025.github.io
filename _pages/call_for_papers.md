@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 5
 
-top_image: /assets/img/gsp23/LMH+Gardens+Punts_cropped.jpg
-top_image_alt: "Punting boats."
+top_image: /assets/img/gsp23/LMH+Gardens_cropped.jpg
+top_image_alt: "Lady Margaret Hall gardens."
 ---
 
 #### Important dates

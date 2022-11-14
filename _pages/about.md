@@ -25,12 +25,12 @@ Besides particular applications, the workshop will also showcase the advancement
 <br />
 
 #### Organising Committee
-+ Antonio Marques (King Juan Carlos University)
-+ Xiaowen Dong (University of Oxford)
-+ Santiago Segarra (Rice University)
-+ Dorina Thanou (École Polytechnique Fédérale de Lausanne)
-+ Gonzalo Mateos (University of Rochester)
-+ Laura Toni (University College London)
++ [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
++ [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
++ [Santiago Segarra](https://segarra.rice.edu) (Rice University)
++ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (École Polytechnique Fédérale de Lausanne)
++ [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
++ [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 <br />
 
 #### Local Organising Team

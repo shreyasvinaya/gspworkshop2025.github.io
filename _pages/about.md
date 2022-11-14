@@ -18,6 +18,12 @@ Graph signal processing applications arise whenever we encounter one of the many
 Besides particular applications, the workshop will also showcase the advancement of the understanding of network data by redesigning traditional tools originally conceived to study signals defined on regular domains (such as time-varying signals or spatially varying images and fields) and extending them to analyze signals on the more complex graph domain. Examples of topics to be showcased in this theoretical track include graph transforms, sampling theorems, and filter design.
 <br />
 
+#### Important Dates
++ **Submission:** TBD
++ **Notification:** TBD
++ **Workshop:** June 12-14, 2023
+<br />
+
 #### Organising Committee
 + Antonio Marques (King Juan Carlos University)
 + Xiaowen Dong (University of Oxford)

@@ -4,11 +4,6 @@ layout: default
 <!-- page.html -->
         <div class="post">
 
-          <header class="post-header">
-            <h3 class="post-title">{{ page.title }}</h3>
-            <p class="post-description">{{ page.description }}</p>
-          </header>
-
           <article>
             <!-- Image at the top -->
             {% if page.top_image -%}
@@ -22,6 +17,13 @@ layout: default
 
               <br>
             {%- endif %}
+
+          <header class="post-header">
+            <h3 class="post-title">{{ page.title }}</h3>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
+          
             
 
             {{ content }}

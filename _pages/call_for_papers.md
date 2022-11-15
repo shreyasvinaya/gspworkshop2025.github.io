@@ -4,10 +4,10 @@ permalink: /call_for_papers/
 title: "Call for papers"
 description: 
 nav: true
-nav_order: 5
+nav_order: 1
 
-top_image: /assets/img/gsp23/LMH+Deneke+Dining+Hall++(3)_cropped.jpg
-top_image_alt: "Lady Margaret Hall dining hall"
+top_image: /assets/img/gsp23/LMH+Gardens_cropped.jpg
+top_image_alt: "Lady Margaret Hall gardens."
 ---
 
 #### Important dates

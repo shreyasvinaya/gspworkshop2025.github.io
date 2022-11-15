@@ -10,7 +10,6 @@ top_image: /assets/img/gsp23/LMH+Gardens_cropped.jpg
 top_image_alt: "Lady Margaret Hall from the gardens."
 ---
 
----
 #### Important Dates
 + **Submission:** TBD
 + **Notification:** TBD

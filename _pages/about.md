@@ -7,6 +7,9 @@ permalink: /
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+
+top_image: /assets/img/gsp23/LMH+from+the+Gardens_cropped.jpg
+top_image_alt: "Lady Margaret Hall from the gardens."
 ---
 
 Following a series of successful workshops since 2016, we are pleased to announce the 6th Edition of the Graph Signal Processing Workshop will be held in **Oxford, UK, June 12-14**.
@@ -35,5 +38,5 @@ Besides particular applications, the workshop will also showcase the advancement
 ---
 #### Local Organising Team
 + Keyue Jiang (University College London)
-+ Henry Kenlay (University of Oxford)
++ [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
 <br />

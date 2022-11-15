@@ -27,22 +27,16 @@ Besides particular applications, the workshop will also showcase the advancement
 + **Workshop:** June 12-14, 2023
 
 ---
+#### Organising Committee
++ [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
++ [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
++ [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
++ [Santiago Segarra](https://segarra.rice.edu) (Rice University)
++ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (École Polytechnique Fédérale de Lausanne)
++ [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 
-<div class="container">
-  <div class="row">
-    <div class="col" style="margin-left: 0; padding-left: 0;"><h4>Organising Committee</h4></div>
-    <div class="col" style="margin-left: 0; padding-left: 0;"><h4>Local Organising Team</h4></div>
-  </div>
-  <div class="row">
-    <div class="col"><li><a href="https://web.media.mit.edu/~xdong/">Xiaowen Dong (University of Oxford) </a></li></div>
-    <div class="col"><li>Keyue Jiang (University College London)</li></div>
-  </div>
-  <div class="row">
-    <div class="col"><li><a href="https://www.tsc.urjc.es/~amarques/">Antonio Marques (King Juan Carlos University) </a></li></div>
-    <div class="col"><li>Henry Kenlay (University of Oxford)</li></div>
-  </div>
-  <div class="row"><div class="col"><li><a href="https://www.hajim.rochester.edu/ece/sites/gmateos/">Gonzalo Mateos (University of Rochester) </a></li></div></div>
-  <div class="row"><div class="col"><li><a href="https://segarra.rice.edu">Santiago Segarra (Rice University) </a></li></div></div>
-  <div class="row"><div class="col"><li><a href="https://people.epfl.ch/dorina.thanou?lang=en">Dorina Thanou (École Polytechnique Fédérale de Lausanne) </a></li></div></div>
-  <div class="row"><div class="col"><li><a href="https://www.ucl.ac.uk/iccs/dr-laura-toni">Laura Toni (University College London) </a></li></div></div>
-</div>
+---
+#### Local Organising Team
++ Keyue Jiang (University College London)
++ [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
+<br />

@@ -27,6 +27,10 @@ Besides particular applications, the workshop will also showcase the advancement
 + **Workshop:** June 12-14, 2023
 
 ---
+#### Invited Speakers
+TBD
+
+---
 #### Organising Committee
 + [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)

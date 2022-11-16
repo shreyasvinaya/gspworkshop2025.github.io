@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 1
 
-top_image: /assets/img/gsp23/LMH+Gardens_cropped.jpg
-top_image_alt: "Lady Margaret Hall from the gardens."
+top_image: /assets/img/gsp23/garden.jpg
+top_image_alt: "Lady Margaret Hall gardens."
 ---
 
 #### Important Dates

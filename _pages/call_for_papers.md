@@ -10,14 +10,13 @@ top_image: /assets/img/gsp23/garden.jpg
 top_image_alt: "Lady Margaret Hall gardens."
 ---
 
+We accept submission of **2-page extended abstracts**. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. The workshop accepts submission of review papers if they are clearly identified as such.
+
+---
 #### Important Dates
 + **Submission:** TBD
 + **Notification:** TBD
 + **Workshop:** June 12-14, 2023
-
----
-#### Submission
-We look forward to welcoming you to Lausanne to participate in this very stimulating workshop. We accept submission of **2-page extended abstracts**. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. The workshop accepts submission of review papers if they are clearly identified as such.
 
 ---
 #### Area of interest

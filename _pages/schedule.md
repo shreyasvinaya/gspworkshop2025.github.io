@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /program/
-title: Program
+permalink: /schedule/
+title: Schedule
 description: 
 nav: true
 nav_order: 3

@@ -10,7 +10,6 @@ top_image: /assets/img/gsp23/garden.jpg
 top_image_alt: "Lady Margaret Hall gardens."
 ---
 
----
 #### Important Dates
 + **Submission open:** TBD
 + **Submission deadline:** TBD

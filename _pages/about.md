@@ -14,16 +14,14 @@ top_image_alt: "Lady Margaret Hall from the gardens."
 
 Following a series of successful workshops since 2016, we are pleased to announce the 6th Edition of the Graph Signal Processing Workshop will be held in **Oxford, UK, June 12-14**.
 
-A graph, or network, is a structure that encodes pairwise relationships and a graph signal is a function defined on the nodes of the graph. The values of the weights on the edges of the graph encode an expectation on the relationship between the respective signal components. A large weight indicates that we expect the signal elements to be similar and a small weight indicates no such expectation except for what is implied by their common proximity to other nodes. The goal of graph signal processing (GSP) is to generalize the classical signal processing toolbox to graph signals.
-
-Graph signal processing applications arise whenever we encounter one of the many signals that are supported on a graph. Examples of applications that will be showcased in the workshop include gene expression patterns defined on top of gene networks, the spread of epidemics over a social network, the congestion level at the nodes of a telecommunication network, and patterns of brain activity defined on top of a brain network.
-
-Besides particular applications, the workshop will also showcase the advancement of the understanding of network data by redesigning traditional tools originally conceived to study signals defined on regular domains (such as time-varying signals or spatially varying images and fields) and extending them to analyze signals on the more complex graph domain. Examples of topics to be showcased in this theoretical track include graph transforms, sampling theorems, and filter design.
+The workshop will provide a warm welcome to leading experts from academia and industry in the field of graph signal processing (GSP). The goal of GSP is to generalize classical signal processing and statistical learning tools to signals on graphs (functions defined on a graph). The workshop will invite discussion on theoretical and foundational topics related to GSP, including graph transforms, sampling theorems, and filter design. The workshop will also highlight how such tools can be integrated into a learning framework, and show novel theoretical developments at the intersection of graph signal processing and graph machine learning. Examples of applications that will be showcased in the workshop include gene expression patterns defined on top of gene networks, the spread of epidemics over a social network, the congestion level at the nodes of a telecommunication network, and patterns of brain activity defined on top of a brain network.
 
 ---
 #### Important Dates
-+ **Submission:** TBD
-+ **Notification:** TBD
++ **Submission open:** TBD
++ **Submission deadline:** TBD
++ **Notification of acceptance:** TBD
++ **Early registration:** TBD
 + **Workshop:** June 12-14, 2023
 
 ---

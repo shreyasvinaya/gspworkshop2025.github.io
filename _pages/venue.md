@@ -10,6 +10,7 @@ top_image: /assets/img/gsp23/LMH+Gardens+Punts_cropped.jpg
 top_image_alt: "Punting boats."
 ---
 
+#### Venue
 GSP 2023 will take place at [Lady Margaret Hall (LMH)](https://www.lmh.ox.ac.uk), University of Oxford, Oxford, UK.
 
 ---
@@ -22,16 +23,26 @@ The [Heathrow Express](https://www.heathrowexpress.com/) is a train that travels
 You can get the tube from Heathrow airport to Paddington Station via the Elizabeth Line and then get a train directly from Paddington Station to Oxford. You do not need to get tickets in advance, but can via the trainline app.
 
 **The Airline:**
-The [Airline](https://www.theairlineoxford.co.uk/) is a bus that goes directly from Heathrow (and Gatwick) to Oxford. You can get it from the central bus station at terminals 2 and 3, and from stand 10 at terminal 5. Get off at either high street or Gloucester green and LMH is a 20 minute walk away.
+The [Airline](https://www.theairlineoxford.co.uk/) is a bus that goes directly from Heathrow (and Gatwick) to Oxford. You can get it from the central bus station at terminals 2 and 3, and from stand 10 at terminal 5. Get off at either high street or Gloucester Green and LMH is a 20 minute walk away.
 
 ---
 #### How to get from Gatwick Airport to Oxford
  
 **Gatwick Express:**
-The [Gatwick Express](https://www.gatwickexpress.com/) is a train that travels directly from Gatwick to Victoria station. From Victoria Station you can either get the [Oxford tube](https://www.stagecoachbus.com/promos-and-offers/oxfordshire/oxford-tube) and get off at Gloucester green, and then walk. Or take the tube from Victoria station to Paddington station and then a train from Paddington station to Oxford.
+The [Gatwick Express](https://www.gatwickexpress.com/) is a train that travels directly from Gatwick to Victoria station. From Victoria Station you can either get the [Oxford tube](https://www.stagecoachbus.com/promos-and-offers/oxfordshire/oxford-tube) and get off at Gloucester Green, and then walk. Or take the tube from Victoria station to Paddington station and then a train from Paddington station to Oxford.
  
 **The Airline:**
 The [Airline](https://www.theairlineoxford.co.uk/) is a bus that goes directly from Gatwick (and Heathrow) to Oxford. You can get it from stands 1 and 2 in the South Terminal, or from stands 4 and 5 in North Terminal.
+
+---
+#### How to get from Oxford City Centre to Lady Margaret Hall
+
+Please find directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall%20from%20Oxford%20Rail%20and%20Bus%20Stations.pdf).
+
+---
+#### Parking to Lady Margaret Hall
+
+Please find parking information [here](/assets/pdf/Park%20and%20Ride%20Information.pdf).
 
 ---
 #### Places to stay in Oxford

@@ -29,7 +29,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + TBD
 
 ---
-#### Organising Committee
+#### Organizing Committee
 + [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
@@ -38,7 +38,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 
 ---
-#### Local Organising Team
+#### Local Organizing Team
 + Keyue Jiang (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
 <br />

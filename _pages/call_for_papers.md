@@ -33,7 +33,7 @@ Topics of interest include but are not limited to:
 + Graph filter identification
 + Graph topology inference
 + Statistical graph signal processing
-+ Signal processing on higher-order graphs
++ Signal processing on higher-order networks
 + Non-linear graph signal processing
 + Prediction and learning in graphs
 + Geometric deep learning (graph CNNs/RNNs)

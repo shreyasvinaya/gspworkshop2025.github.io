@@ -29,13 +29,11 @@ GSP 2023 will take place at [Lady Margaret Hall](https://www.lmh.ox.ac.uk), Univ
 + Once you arrive in Oxford by train, bus, or car, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall%20from%20Oxford%20Rail%20and%20Bus%20Stations.pdf) from city centre to Lady Margaret Hall.
 
 ---
-#### Parking around Lady Margaret Hall
-
-Please find [here](/assets/pdf/Park%20and%20Ride%20Information.pdf) information about parking around Lady Margaret Hall.
+#### Parking information
++ Please find [here](/assets/pdf/Park%20and%20Ride%20Information.pdf) information about parking around Lady Margaret Hall.
 
 ---
 #### Places to stay in Oxford
- 
 + [Cotswold Lodge Hotel](http://www.cotswoldlodgehotel.co.uk/)
 + [Old Parsonage Hotel](https://www.oldparsonagehotel.co.uk/)
 + [Leonardo Royal Hotel Oxford](https://www.leonardohotels.co.uk/hotels/oxford)

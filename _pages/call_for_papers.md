@@ -10,11 +10,11 @@ top_image: /assets/img/gsp23/garden.jpg
 top_image_alt: "Lady Margaret Hall gardens."
 ---
 
-#### Important Dates
-+ **Submission open:** TBD
-+ **Submission deadline:** TBD
-+ **Notification of acceptance:** TBD
-+ **Early registration:** TBD
+#### Important Dates (tentative)
++ **Submission open:** January 15, 2023
++ **Submission deadline:** March 1, 2023
++ **Notification of acceptance:** March 15, 2023
++ **Early registration:** April 1, 2023
 + **Workshop:** June 12-14, 2023
 
 ---

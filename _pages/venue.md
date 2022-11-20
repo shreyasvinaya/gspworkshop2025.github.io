@@ -15,7 +15,6 @@ GSP 2023 will take place at [Lady Margaret Hall](https://www.lmh.ox.ac.uk), Univ
 
 ---
 #### How to get there
-
 **From Heathrow Airport**
 + Heathrow Express: The [Heathrow Express](https://www.heathrowexpress.com/) is a train that travels directly from Heathrow airport to Paddington Station in London. You are then able to get trains directly from Paddington Station to Oxford. It is best booked in advance for cheaper prices.
 + The Tube: You can get the tube from Heathrow airport to Paddington Station via the Elizabeth Line and then get a train directly from Paddington Station to Oxford. You do not need to get tickets in advance, but can via the trainline app.
@@ -30,10 +29,11 @@ GSP 2023 will take place at [Lady Margaret Hall](https://www.lmh.ox.ac.uk), Univ
 
 ---
 #### Parking information
-+ Please find [here](/assets/pdf/Park%20and%20Ride%20Information.pdf) information about parking around Lady Margaret Hall.
+Please find [here](/assets/pdf/Park%20and%20Ride%20Information.pdf) information about parking around Lady Margaret Hall.
 
 ---
 #### Places to stay in Oxford
+A number of recommended hotels in Oxford:
 + [Cotswold Lodge Hotel](http://www.cotswoldlodgehotel.co.uk/)
 + [Old Parsonage Hotel](https://www.oldparsonagehotel.co.uk/)
 + [Leonardo Royal Hotel Oxford](https://www.leonardohotels.co.uk/hotels/oxford)

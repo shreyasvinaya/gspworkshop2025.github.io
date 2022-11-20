@@ -25,7 +25,8 @@ GSP 2023 will take place at [Lady Margaret Hall](https://www.lmh.ox.ac.uk), Univ
 + The Airline: The [Airline](https://www.theairlineoxford.co.uk/) is a bus that goes directly from Gatwick (and Heathrow) to Oxford. You can get it from stands 1 and 2 in the South Terminal, or from stands 4 and 5 in North Terminal.
 
 **From Oxford City Centre to Lady Margaret Hall**
-+ Once you arrive in Oxford by train, bus, or car, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall%20from%20Oxford%20Rail%20and%20Bus%20Stations.pdf) from city centre to Lady Margaret Hall.
++ If you arrive in Oxford by train or bus, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall%20from%20Oxford%20Rail%20and%20Bus%20Stations.pdf) from city centre to Lady Margaret Hall.
++ If you arrive in Oxford by car, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall.pdf) to Lady Margaret Hall.
 
 ---
 #### Parking information

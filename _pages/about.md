@@ -18,7 +18,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### News
-+ **[2023/02/01]** Submission is now open. Guilelines can be found on the "Call for Papers" page.
++ **[2023/02/01]** Submission is now open. Guilelines can be found on the "Call for papers" page.
 
 ---
 #### Important Dates

@@ -10,7 +10,7 @@ top_image: /assets/img/gsp23/garden.jpg
 top_image_alt: "Lady Margaret Hall gardens."
 ---
 
-#### Important Dates (tentative)
+#### Important Dates
 + **Submission open:** Februray 1, 2023
 + **Submission deadline:** March 1, 2023
 + **Notification of acceptance:** March 15, 2023

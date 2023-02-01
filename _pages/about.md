@@ -41,4 +41,9 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 #### Local Organizing Team
 + Keyue Jiang (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
-<br />
++ TBD
+
+---
+#### Contact
+If you have any questions regarding submission or enquiries about the workshop, please get in touch by emailing gspworkshop2023@gmail.com.
+<br/>

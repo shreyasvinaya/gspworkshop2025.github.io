@@ -11,7 +11,7 @@ top_image_alt: "Lady Margaret Hall gardens."
 ---
 
 #### Important Dates (tentative)
-+ **Submission open:** January 15, 2023
++ **Submission open:** Februray 1, 2023
 + **Submission deadline:** March 1, 2023
 + **Notification of acceptance:** March 15, 2023
 + **Early registration:** April 1, 2023
@@ -19,7 +19,9 @@ top_image_alt: "Lady Margaret Hall gardens."
 
 ---
 #### Submission
-We accept submission of **2-page extended abstracts**. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. The workshop accepts submission of review papers if they are clearly identified as such.
+We accept submission of **2-page extended abstracts** with standard IEEE or ACM conference format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2023".
+
+Submission is now open at https://cmt3.research.microsoft.com/GSP2023.
 
 ---
 #### Area of interest

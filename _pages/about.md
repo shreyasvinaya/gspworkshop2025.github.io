@@ -34,18 +34,56 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Organizing Committee
-+ [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
+<!---
+ + [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
 + [Santiago Segarra](https://segarra.rice.edu) (Rice University)
 + [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (École Polytechnique Fédérale de Lausanne)
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
+--->
+
+<div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          {% include people.html name="Xiaowen Dong" affiliation="University of Oxford" url="https://web.media.mit.edu/~xdong/" img="/assets/img/people/xiaowen.jpg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Antonio Marques" affiliation="King Juan Carlos University" url="https://www.tsc.urjc.es/~amarques/" img="/assets/img/people/antonio_2.jpg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Gonzalo Mateos" affiliation="University of Rochester" url="https://www.hajim.rochester.edu/ece/sites/gmateos//" img="/assets/img/people/Gonzalo.jpg" %}
+      </div>
+      <div class="w-100"></div>
+      <div class="col-sm-4">
+          {% include people.html name="Santiago Segarra" affiliation="Rice University" url="https://segarra.rice.edu" img="assets/img/people/SANTIAGO.jpg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Dorina Thanou" affiliation="École Polytechnique Fédérale de Lausanne" img="assets/img/people/Dorina.jpg" url="https://people.epfl.ch/dorina.thanou?lang=en" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Laura Toni" affiliation="University College London" img="assets/img/people/laura.jpg" url="https://www.ucl.ac.uk/iccs/dr-laura-toni" %}
+      </div>
+  </div>
 
 ---
 #### Local Organizing Team
-+ Keyue Jiang (University College London)
+<!---
++ [Keyue Jiang](https://garyball.github.io/) (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
 + TBD
+--->
+
+
+<div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          {% include people.html name="Keyue Jiang" affiliation="University College London" url="https://garyball.github.io/" img="/assets/img/people/keyue.jpg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Henry Kenlay" affiliation="University of Oxford" url="https://henrykenlay.github.io/" img="/assets/img/people/henry.jpg" %}
+      </div>
+     
+  </div>
+
 
 ---
 #### Contact

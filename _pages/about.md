@@ -31,12 +31,12 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Invited Speakers
-+ [Markus Püschel](https://acl.inf.ethz.ch/people/markusp/) (ETH Zürich)
-+ [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (LMU Munich)
-+ [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/) (Chinese University of Hong Kong)
 + [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en) (DeepMind)
 + [Wei Hu](https://www.wict.pku.edu.cn/huwei/) (Peking University)
++ [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (LMU Munich)
 + [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (University of Cambridge)
++ [Markus Püschel](https://acl.inf.ethz.ch/people/markusp/) (ETH Zürich)
++ [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/) (Chinese University of Hong Kong)
 
 ---
 #### Organizing Committee

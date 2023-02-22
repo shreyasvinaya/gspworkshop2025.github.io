@@ -52,8 +52,3 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + Keyue Jiang (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
 + Bohan Tang (University of Oxford)
-
----
-#### Contact
-If you have any questions regarding submission or enquiries about the workshop, please contact [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com). Any enquiries about registration or refund shoud be made to [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk).
-<br/>

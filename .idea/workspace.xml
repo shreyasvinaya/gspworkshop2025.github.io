@@ -7,6 +7,9 @@
     <list default="true" id="58314356-ea12-44b7-93de-b4292bb05048" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/staff.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/staff.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/call_for_papers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/call_for_papers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/registration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/registration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/people/bohan.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +127,7 @@
       <workItem from="1676895667875" duration="8000" />
       <workItem from="1676895732556" duration="5000" />
       <workItem from="1677076985158" duration="9721000" />
+      <workItem from="1677102949296" duration="1567000" />
     </task>
     <servers />
   </component>

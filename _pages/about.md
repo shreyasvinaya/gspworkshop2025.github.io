@@ -18,6 +18,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### News
++ **[2023/02/22]** Registration is now open. Details can be found on the "Registration" page.
 + **[2023/02/01]** Submission is now open. Guilelines can be found on the "Call for papers" page.
 
 ---
@@ -30,7 +31,12 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Invited Speakers
-+ TBD
++ [Markus Püschel](https://acl.inf.ethz.ch/people/markusp/) (ETH Zürich)
++ [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (LMU Munich)
++ [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/) (Chinese University of Hong Kong)
++ [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en) (DeepMind)
++ [Wei Hu](https://www.wict.pku.edu.cn/huwei/) (Peking University)
++ [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (University of Cambridge)
 
 ---
 #### Organizing Committee
@@ -38,16 +44,16 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
 + [Santiago Segarra](https://segarra.rice.edu) (Rice University)
-+ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (École Polytechnique Fédérale de Lausanne)
++ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (EPFL)
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 
 ---
 #### Local Organizing Team
 + Keyue Jiang (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
-+ TBD
++ Bohan Tang (University of Oxford)
 
 ---
 #### Contact
-If you have any questions regarding submission or enquiries about the workshop, please get in touch via email: [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com)
+If you have any questions regarding submission or enquiries about the workshop, please contact [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com). Any enquiries about registration or refund shoud be made to [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk).
 <br/>

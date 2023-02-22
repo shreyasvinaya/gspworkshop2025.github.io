@@ -63,7 +63,20 @@ The workshop will provide a warm welcome to experts and practitioners from acade
       <div class="col-sm-4">
         {% include people.html name="Laura Toni" affiliation="University College London" img="assets/img/people/laura.jpg" url="https://www.ucl.ac.uk/iccs/dr-laura-toni" %}
       </div>
+</div>
+
+
+<div class="instructors clearfix">
+
+  <div class="instructor-profile-two-col">
+    <a href="https://www.cs.cmu.edu/~morency/" target="_blank"><img src="/assets/img/people/xiaowen.jpg" /></a>
+    <ul class="instructor-info">
+      <li><span>Instructor</span> <a href="https://www.cs.cmu.edu/~morency/" target="_blank">Louis-Philippe Morency</a></li>
+      <li><span>Email:</span> <a href="mailto:morency@cs.cmu.edu" target="_blank">morency@cs.cmu.edu</a></li>
+    </ul>
   </div>
+
+</div>
 
 ---
 #### Local Organizing Team
@@ -72,7 +85,6 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
 + TBD
 --->
-
 
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
@@ -83,7 +95,6 @@ The workshop will provide a warm welcome to experts and practitioners from acade
       </div>
      
   </div>
-
 
 ---
 #### Contact

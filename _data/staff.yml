@@ -1,3 +1,40 @@
+Speakers:
+  - name: Markus Püschel
+    email: xdong@robots.ox.ac.uk
+    affiliation: ETH Zürich
+    url: https://acl.inf.ethz.ch/people/markusp/
+    image: speakers/markus.jpg
+
+  - name: Gitta Kutyniok
+    email: antonio.garcia.marques@urjc.es
+    affiliation: LMU Munich
+    url: https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html
+    image: speakers/gitta.jpg
+
+  - name: Hoi-To Wai
+    email: gmateosb@ece.rochester.edu
+    affiliation: Chinese University of Hong Kong
+    url: https://www1.se.cuhk.edu.hk/~htwai/
+    image: speakers/hoito.jpg
+
+  - name: Peter Battaglia
+    email: segarra@rice.edu
+    affiliation: DeepMind
+    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en
+    image: speakers/peter.jpg
+
+  - name: Wei Hu
+    email: dorina.thanou@epfl.ch
+    affiliation: Peking University
+    url: https://www.wict.pku.edu.cn/huwei/
+    image: speakers/wei.jpg
+
+  - name: Pietro Liò
+    email: l.toni@ucl.ac.uk
+    affiliation: University of Cambridge
+    url: https://www.cl.cam.ac.uk/~pl219/
+    image: speakers/pietro_2.jpg
+
 Instructors:
   - name: Xiaowen Dong
     email: xdong@robots.ox.ac.uk

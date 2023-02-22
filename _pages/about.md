@@ -18,6 +18,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### News
++ **[2023/02/22]** Registration is now open. Details can be found on the "Registration" page.
 + **[2023/02/01]** Submission is now open. Guilelines can be found on the "Call for papers" page.
 
 ---
@@ -30,7 +31,17 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Invited Speakers
-+ TBD
+<!---
++ [Markus Püschel](https://acl.inf.ethz.ch/people/markusp/) (ETH Zürich)
++ [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (LMU Munich)
++ [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/) (Chinese University of Hong Kong)
++ [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en) (DeepMind)
++ [Wei Hu](https://www.wict.pku.edu.cn/huwei/) (Peking University)
++ [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (University of Cambridge)
+
+--->
+
+{% include speakers.html %}
 
 ---
 #### Organizing Committee

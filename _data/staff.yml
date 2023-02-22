@@ -1,6 +1,6 @@
 Speakers:
   - name: Markus Püschel
-    email: xdong@robots.ox.ac.uk
+    email: gspworkshop2023@gmail.com
     affiliation: ETH Zürich
     url: https://acl.inf.ethz.ch/people/markusp/
     image: speakers/markus.jpg
@@ -12,25 +12,25 @@ Speakers:
     image: speakers/gitta.jpg
 
   - name: Hoi-To Wai
-    email: gmateosb@ece.rochester.edu
+    email: gspworkshop2023@gmail.com
     affiliation: Chinese University of Hong Kong
     url: https://www1.se.cuhk.edu.hk/~htwai/
     image: speakers/hoito.jpg
 
   - name: Peter Battaglia
-    email: segarra@rice.edu
+    email: gspworkshop2023@gmail.com
     affiliation: DeepMind
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en
     image: speakers/peter.jpg
 
   - name: Wei Hu
-    email: dorina.thanou@epfl.ch
+    email: gspworkshop2023@gmail.com
     affiliation: Peking University
     url: https://www.wict.pku.edu.cn/huwei/
     image: speakers/wei.jpg
 
   - name: Pietro Liò
-    email: l.toni@ucl.ac.uk
+    email: gspworkshop2023@gmail.com
     affiliation: University of Cambridge
     url: https://www.cl.cam.ac.uk/~pl219/
     image: speakers/pietro_2.jpg
@@ -84,3 +84,10 @@ Local_team:
     affiliation: University of Oxford
     url: https://henrykenlay.github.io/
     image: people/henry.jpg
+
+  - name: Bohan Tang
+    email: bohan.tang@eng.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://gspworkshop.github.io
+    image: people/bohan.jpg
+

@@ -43,40 +43,8 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 --->
 
-<div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="Xiaowen Dong" affiliation="University of Oxford" url="https://web.media.mit.edu/~xdong/" img="/assets/img/people/xiaowen.jpg" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Antonio Marques" affiliation="King Juan Carlos University" url="https://www.tsc.urjc.es/~amarques/" img="/assets/img/people/antonio_2.jpg" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Gonzalo Mateos" affiliation="University of Rochester" url="https://www.hajim.rochester.edu/ece/sites/gmateos//" img="/assets/img/people/Gonzalo.jpg" %}
-      </div>
-      <div class="w-100"></div>
-      <div class="col-sm-4">
-          {% include people.html name="Santiago Segarra" affiliation="Rice University" url="https://segarra.rice.edu" img="assets/img/people/SANTIAGO.jpg" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Dorina Thanou" affiliation="École Polytechnique Fédérale de Lausanne" img="assets/img/people/Dorina.jpg" url="https://people.epfl.ch/dorina.thanou?lang=en" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Laura Toni" affiliation="University College London" img="assets/img/people/laura.jpg" url="https://www.ucl.ac.uk/iccs/dr-laura-toni" %}
-      </div>
-</div>
+{% include staff.html %}
 
-
-<div class="instructors clearfix">
-
-  <div class="instructor-profile-two-col">
-    <a href="https://www.cs.cmu.edu/~morency/" target="_blank"><img src="/assets/img/people/xiaowen.jpg" /></a>
-    <ul class="instructor-info">
-      <li><span>Instructor</span> <a href="https://www.cs.cmu.edu/~morency/" target="_blank">Louis-Philippe Morency</a></li>
-      <li><span>Email:</span> <a href="mailto:morency@cs.cmu.edu" target="_blank">morency@cs.cmu.edu</a></li>
-    </ul>
-  </div>
-
-</div>
 
 ---
 #### Local Organizing Team
@@ -86,17 +54,9 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + TBD
 --->
 
-<div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="Keyue Jiang" affiliation="University College London" url="https://garyball.github.io/" img="/assets/img/people/keyue.jpg" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Henry Kenlay" affiliation="University of Oxford" url="https://henrykenlay.github.io/" img="/assets/img/people/henry.jpg" %}
-      </div>
-     
-  </div>
+{% include local_team.html %}
 
----
+
 #### Contact
 If you have any questions regarding submission or enquiries about the workshop, please get in touch via email: [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com)
 <br/>

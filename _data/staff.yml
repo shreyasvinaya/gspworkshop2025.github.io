@@ -1,8 +1,49 @@
 Instructors:
   - name: Xiaowen Dong
-    email: katef@cs.cmu.edu
-    url: https://www.cs.cmu.edu/~katef/
-    office-hours: Tuesday, Thursday 12:00 noon - 12:30PM
+    email: xdong@robots.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://web.media.mit.edu/~xdong/
     image: people/xiaowen.jpg
 
+  - name: Antonio Marques
+    email: antonio.garcia.marques@urjc.es
+    affiliation: King Juan Carlos University
+    url: https://www.tsc.urjc.es/~amarques/
+    image: people/antonio_2.jpg
 
+  - name: Gonzalo Mateos
+    email: gmateosb@ece.rochester.edu
+    affiliation: University of Rochester
+    url: https://www.hajim.rochester.edu/ece/sites/gmateos//
+    image: people/Gonzalo.jpg
+
+  - name: Santiago Segarra
+    email: segarra@rice.edu
+    affiliation: Rice University
+    url: https://segarra.rice.edu
+    image: people/SANTIAGO.jpg
+
+  - name: Dorina Thanou
+    email: dorina.thanou@epfl.ch
+    affiliation: École Polytechnique Fédérale de Lausanne
+    url: https://people.epfl.ch/dorina.thanou?lang=en
+    image: people/Dorina.jpg
+
+  - name: Laura Toni
+    email: l.toni@ucl.ac.uk
+    affiliation: University College London
+    url: https://www.ucl.ac.uk/iccs/dr-laura-toni
+    image: people/laura.jpg
+
+Local_team:
+  - name: Keyue Jiang
+    email: keyue.jiang.18@ucl.ac.uk
+    affiliation: University College London
+    url: https://garyball.github.io/
+    image: people/keyue.jpg
+
+  - name: Henry Kenlay
+    email: kenlay@robots.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://henrykenlay.github.io/
+    image: people/henry.jpg

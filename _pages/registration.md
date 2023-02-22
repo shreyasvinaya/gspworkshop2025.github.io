@@ -11,7 +11,7 @@ top_image_alt: "Lady Margaret Hall dining hall"
 ---
 
 #### Registration
-Registration is mandatory for attending the workshop and is open at: [https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop](https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop)
+Registration is mandatory for attending the workshop and is open at [https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop](https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop).
 
 Registration fees:
 + Earlybird full-time enrolled student registration - £250.00

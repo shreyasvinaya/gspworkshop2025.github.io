@@ -25,7 +25,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 #### Important Dates
 + **Submission open:** February 1, 2023
 + **Submission deadline:** March 15, 2023
-+ **Notification of acceptance:** April, 2023
++ **Notification of acceptance:** April 1, 2023
 + **Early registration:** April 15, 2023
 + **Workshop:** June 12-14, 2023
 
@@ -39,7 +39,6 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en) (DeepMind)
 + [Wei Hu](https://www.wict.pku.edu.cn/huwei/) (Peking University)
 + [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (University of Cambridge)
-
 --->
 
 {% include speakers.html %}
@@ -64,7 +63,6 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Keyue Jiang](https://garyball.github.io/) (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
 + Bohan Tang (University of Oxford)
-+ TBD
 --->
 
 {% include local_team.html %}

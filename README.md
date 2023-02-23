@@ -1,4 +1,13 @@
-# al-folio
+# GSP workshop official website
+
+## The make modification for the pages:
+- The text shown in the website can be found in folder '_pages'. It follows the tradition of usual markdown files.
+- If you wish to modify the personnel information in 'Speakers', 'Organizing Committee' and 'Local Organizing Team', Please go to "_data/staff.yml". You can simply add, modify and delete the information you want. 
+- To make modify on the style of presentation in this three parts, go to "_include/staff.html" for organizing committee, "_include/speakers.html" for speakers, and "_include/local_team.html" for local organizing team. 
+
+
+
+# Jekyll instructions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

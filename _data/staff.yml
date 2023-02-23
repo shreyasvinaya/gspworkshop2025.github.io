@@ -12,7 +12,7 @@ Speakers:
     image: speakers/wei.jpg
 
   - name: Gitta Kutyniok
-    email: antonio.garcia.marques@urjc.es
+    email: gspworkshop2023@gmail.com
     affiliation: LMU Munich
     url: https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html
     image: speakers/gitta.jpg
@@ -34,11 +34,6 @@ Speakers:
     affiliation: Chinese University of Hong Kong
     url: https://www1.se.cuhk.edu.hk/~htwai/
     image: speakers/hoito.jpg
-
-
-
-
-
 
 
 Instructors:
@@ -77,6 +72,7 @@ Instructors:
     affiliation: University College London
     url: https://www.ucl.ac.uk/iccs/dr-laura-toni
     image: people/laura.jpg
+
 
 Local_team:
   - name: Keyue Jiang

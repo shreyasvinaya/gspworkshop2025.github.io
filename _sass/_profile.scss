@@ -47,7 +47,7 @@
         min-width: 210px;
 
         a {
-            color: $theme-color;
+            color: var(--global-theme-color);
             &:hover {
                 text-decoration: underline;
             }

@@ -68,8 +68,3 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 --->
 
 {% include local_team.html %}
-
-#### Contact
-If you have any questions regarding submission or enquiries about the workshop, please get in touch via email: [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com)
-<br/>
-

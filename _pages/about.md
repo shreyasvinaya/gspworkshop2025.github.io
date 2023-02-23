@@ -24,9 +24,9 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 ---
 #### Important Dates
 + **Submission open:** February 1, 2023
-+ **Submission deadline:** March 1, 2023
-+ **Notification of acceptance:** March 15, 2023
-+ **Early registration:** April 1, 2023
++ **Submission deadline:** March 15, 2023
++ **Notification of acceptance:** April, 2023
++ **Early registration:** April 15, 2023
 + **Workshop:** June 12-14, 2023
 
 ---

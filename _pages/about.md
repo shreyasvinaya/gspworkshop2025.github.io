@@ -31,6 +31,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Invited Speakers
+
 <!---
 + [Markus Püschel](https://acl.inf.ethz.ch/people/markusp/) (ETH Zürich)
 + [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (LMU Munich)
@@ -50,7 +51,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
 + [Santiago Segarra](https://segarra.rice.edu) (Rice University)
-+ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (École Polytechnique Fédérale de Lausanne)
++ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (EPFL)
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 --->
 
@@ -62,12 +63,13 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 <!---
 + [Keyue Jiang](https://garyball.github.io/) (University College London)
 + [Henry Kenlay](https://henrykenlay.github.io/) (University of Oxford)
++ Bohan Tang (University of Oxford)
 + TBD
 --->
 
 {% include local_team.html %}
 
-
 #### Contact
 If you have any questions regarding submission or enquiries about the workshop, please get in touch via email: [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com)
 <br/>
+

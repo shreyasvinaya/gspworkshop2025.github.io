@@ -19,7 +19,7 @@ Registration fees:
 + Full-time enrolled student registration  - £350.00
 + Standard registration - £450.00
 
-Earlybird fees are available until midnight on 1st April, with regular fees applied from 2nd April 2023. The registration fees include admission to the technical sessions, coffee, day time refreshments and lunch every day, a formal dinner on Monday 12th June, and a drinks reception with bowl food on Tuesday 13th June.
+Earlybird fees are available until midnight on April 15, with regular fees applied from April 16. The registration fees include admission to the technical sessions, coffee, day time refreshments and lunch every day, a formal dinner on Monday 12th June, and a drinks reception with bowl food on Tuesday 13th June.
 
 Any enquiries about registration or refund shoud be made to [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk). If you require an invitation letter for the workshop, please email [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk) only once registered.
 

@@ -11,10 +11,10 @@ top_image_alt: "Lady Margaret Hall gardens."
 ---
 
 #### Important Dates
-+ **Submission open:** Februray 1, 2023
-+ **Submission deadline:** March 15, 2023
-+ **Notification of acceptance:** April 1, 2023
-+ **Early registration:** April 15, 2023
++ **Submission open:** February 1, 2023
++ **Submission deadline:** <s>March 1, 2023</s> March 15, 2023
++ **Notification of acceptance:** <s>March 15, 2023</s> April 1, 2023
++ **Early registration:** <s>April 1, 2023</s> April 15, 2023
 + **Workshop:** June 12-14, 2023
 
 ---

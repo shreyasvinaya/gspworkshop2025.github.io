@@ -56,7 +56,7 @@ GSP 2023 is kindly supported by the ELLIS units of [Madrid](https://ellismadrid.
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 --->
 
-{% include staff.html %}
+{% include organizers.html %}
 
 
 ---

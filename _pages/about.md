@@ -16,6 +16,8 @@ Following a series of successful workshops since 2016, we are pleased to announc
 
 The workshop will provide a warm welcome to experts and practitioners from academia and industry in the field of graph signal processing (GSP). The goal of GSP is to generalize classical signal processing and statistical learning tools to signals on graphs (functions defined on a graph). The workshop will invite discussion on theoretical and foundational topics related to GSP, including graph transforms, sampling theorems, and filter design. The workshop will also highlight how such tools can be integrated into a learning framework, and show novel theoretical developments at the intersection of graph signal processing and graph machine learning. Examples of applications that will be showcased in the workshop include gene expression patterns defined on top of gene networks, the spread of epidemics over a social network, the congestion level at the nodes of a telecommunication network, and patterns of brain activity defined on top of a brain network.
 
+GSP 2023 is supported by the ELLIS units of [Madrid](https://ellismadrid.es) and [Lausanne](https://www.epfl.ch/research/domains/epfl-ellis/), and the [Center for Intelligent Systems](https://www.epfl.ch/research/domains/cis/) at EPFL.
+
 ---
 #### News
 + **[2023/02/22]** Registration is now open. Details can be found on the "Registration" page.
@@ -46,7 +48,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 ---
 #### Organizing Committee
 <!---
- + [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford, ELLIS Oxford)
++ [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford, ELLIS Oxford)
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University, ELLIS Madrid)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
 + [Santiago Segarra](https://segarra.rice.edu) (Rice University)
@@ -66,7 +68,3 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 --->
 
 {% include local_team.html %}
-
----
-#### Co-organizers
-GSP 2023 is supported by the ELLIS units of Madrid and Lausanne, and the Center for Intelligent Systems at EPFL.

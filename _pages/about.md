@@ -46,12 +46,12 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 ---
 #### Organizing Committee
 <!---
- + [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
-+ [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
+ + [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford, ELLIS Oxford)
++ [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University, ELLIS Madrid)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
 + [Santiago Segarra](https://segarra.rice.edu) (Rice University)
-+ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (EPFL)
-+ [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
++ [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (EPFL, ELLIS Lausanne)
++ [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London, ELLIS London)
 --->
 
 {% include staff.html %}
@@ -66,3 +66,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 --->
 
 {% include local_team.html %}
+
+---
+#### Co-organizers
+GSP 2023 is supported by the ELLIS units of Madrid and Lausanne, and the Center for Intelligent Systems at EPFL.

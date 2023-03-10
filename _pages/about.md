@@ -48,7 +48,7 @@ GSP 2023 is kindly supported by the ELLIS units of [Madrid](https://ellismadrid.
 ---
 #### Organizing Committee
 <!---
-+ [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford, ELLIS Oxford)
++ [Xiaowen Dong](https://web.media.mit.edu/~xdong/) (University of Oxford)
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos//) (University of Rochester)
 + [Santiago Segarra](https://segarra.rice.edu) (Rice University)
@@ -56,7 +56,7 @@ GSP 2023 is kindly supported by the ELLIS units of [Madrid](https://ellismadrid.
 + [Laura Toni](https://www.ucl.ac.uk/iccs/dr-laura-toni) (University College London)
 --->
 
-{% include organizers.html %}
+{% include staff.html %}
 
 
 ---

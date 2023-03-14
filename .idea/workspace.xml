@@ -86,8 +86,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/garyball/Documents/GitHub/gspworkshop/gspworkshop.github.io/_includes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/garyball/Documents/GitHub/gspworkshop.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -124,6 +126,7 @@
       <workItem from="1677076985158" duration="9721000" />
       <workItem from="1677102949296" duration="2636000" />
       <workItem from="1677159647636" duration="1022000" />
+      <workItem from="1678792625631" duration="2437000" />
     </task>
     <servers />
   </component>

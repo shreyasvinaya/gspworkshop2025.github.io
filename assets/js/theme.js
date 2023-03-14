@@ -4,7 +4,7 @@ let toggleTheme = (theme) => {
   if (theme == "dark") {
     setTheme("light");
   } else {
-    setTheme("light");
+    setTheme("dark");
   }
 }
 
@@ -15,6 +15,14 @@ let setTheme = (theme) =>  {
 
   if (theme) {
     document.documentElement.setAttribute("data-theme", theme);
+    var el = document.getElementById('ellis_logo');
+    if(theme == 'light'){
+      el.src='/assets/img/logos/EUMLogoB-768x119.png';
+    }
+    else{
+      el.src='/assets/img/logos/EUMLogoW.png';
+    }
+
   }
   else {
     document.documentElement.removeAttribute("data-theme");
@@ -53,7 +61,7 @@ let initTheme = (theme) => {
   if (theme == null || theme == 'null') {
     const userPref = window.matchMedia;
     if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
-        theme = 'light';
+        theme = 'dark';
     }
   }
   

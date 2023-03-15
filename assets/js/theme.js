@@ -15,12 +15,14 @@ let setTheme = (theme) =>  {
 
   if (theme) {
     document.documentElement.setAttribute("data-theme", theme);
-    var el = document.getElementById('ellis_logo');
-    if(theme == 'light'){
-      el.src='/assets/img/logos/EUMLogoB-768x119.png';
-    }
-    else{
-      el.src='/assets/img/logos/EUMLogoW.png';
+
+    if(document.getElementById('ellis_logo')) {
+      var el = document.getElementById('ellis_logo');
+      if (theme == 'light') {
+        el.src = '/assets/img/logos/EUMLogoB-768x119.png';
+      } else {
+        el.src = '/assets/img/logos/EUMLogoW.png';
+      }
     }
 
   }

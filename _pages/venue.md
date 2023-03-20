@@ -30,7 +30,7 @@ GSP 2023 will take place at [Lady Margaret Hall (LMH)](https://www.lmh.ox.ac.uk)
 
 ---
 #### Parking information
-Please find [here](/assets/pdf/Park%20and%20Ride%20Information.pdf) information about parking around LMH.
+Please find [here](/assets/pdf/Parking%20Around%20LMH.pdf) information about parking around LMH.
 
 ---
 #### Places to stay in Oxford

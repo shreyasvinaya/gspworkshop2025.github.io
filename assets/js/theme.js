@@ -25,6 +25,15 @@ let setTheme = (theme) =>  {
       }
     }
 
+    if(document.getElementById('ellis_EPFL_logo')) {
+      var el_epfl = document.getElementById('ellis_EPFL_logo');
+      if (theme == 'light') {
+        el_epfl.src = '/assets/img/logos/EPFL-Ellis-Lausanne-Unit-logo.png';
+      } else {
+        el_epfl.src = '/assets/img/logos/EPFL-Ellis-Lausanne-Unit-logoW.png';
+      }
+    }
+
   }
   else {
     document.documentElement.removeAttribute("data-theme");

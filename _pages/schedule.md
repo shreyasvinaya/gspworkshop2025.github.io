@@ -11,7 +11,7 @@ top_image_alt: "Simpkins Lee Theatre"
 ---
 
 #### Agenda
-The agenda of the workshop can be found [here](/assets/pdf/Graph%20Sigmal%20Processing%20Programme%20V2.pdf).
+The agenda of the workshop can be found [here](https://github.com/gspworkshop/gspworkshop.github.io/blob/master/assets/pdf/Graph%20Signal%20Processing%20Programme%20V2.pdf).
 
 #### Detailed programme
-The list of lectures and poster presentations can be found [here](/assets/pdf/List%20of%20Papers%20V3.pdf).
+The list of lectures and poster presentations can be found [here](https://github.com/gspworkshop/gspworkshop.github.io/blob/master/assets/pdf/List%20of%20Papers%20V3.pdf).

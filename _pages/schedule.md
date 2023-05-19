@@ -11,7 +11,7 @@ top_image_alt: "Simpkins Lee Theatre"
 ---
 
 #### Agenda
-Registration is mandatory for attending the workshop and is open [here](https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop). You can register and attend the workshop without submitting an abstract.
+The agenda of the workshop can be found [here](/assets/pdf/Graph%20Sigmal%20Processing%20Programme%20V2.pdf).
 
 #### Detailed programme
-List of lectures/poster presentations
+The list of lectures and poster presentations can be found [here](/assets/pdf/List%20of%20Papers%20V3.pdf).

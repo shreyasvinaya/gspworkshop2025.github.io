@@ -21,6 +21,7 @@ GSP 2023 is kindly supported by the ELLIS Units of [Madrid](https://ellismadrid.
 
 ---
 #### News
++ **[2023/05/20]** The programme of the workshop is now available. Details can be found on the "Schedule" page.
 + **[2023/02/22]** Registration is now open. Details can be found on the "Registration" page.
 + **[2023/02/01]** Submission is now open. Guilelines can be found on the "Call for papers" page.
 

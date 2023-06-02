@@ -15,7 +15,7 @@ GSP 2023 will take place at [Lady Margaret Hall (LMH)](https://www.lmh.ox.ac.uk)
 
 ---
 #### How to get there
-[**Update:** A section of the direct train service from London Paddington Station to Oxford is currently being suspended. The information below has been updated to reflect this change. Please check the [trainline](https://www.thetrainline.com/trains/great-britain/industrial-action) website regularly for potential distruption of train services.]
+[**Update:** A section of the direct train service from London Paddington Station to Oxford is currently being suspended. The information below has been updated to reflect this change. Please check the [trainline](https://www.thetrainline.com/trains/great-britain/industrial-action) website regularly for other potential distruption of train services.]
 
 **From Heathrow Airport**
 + Via London: You can take the [Heathrow Express](https://www.heathrow.com/transport-and-directions/by-rail-or-train/heathrow-express) (15 mins) or the [Tube Elizabeth Line](https://www.heathrow.com/transport-and-directions/by-rail-or-train/elizabeth-line) (30 mins) from Heathrow Airport to Paddington Station in London. You then have several options:

@@ -11,7 +11,7 @@ top_image_alt: "Lady Margaret Hall dining hall"
 ---
 
 #### Registration
-Registration is mandatory for attending the workshop and is open [here](https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop). You can register and attend the workshop without submitting an abstract.
+Registration is mandatory for attending the workshop and is open [here](https://www.oxforduniversitystores.co.uk/conferences-and-events/lady-margaret-hall/events/graph-signal-processing-workshop) (registration via this link will close on May 31st after which registration request should be made to [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk)). You can register and attend the workshop without submitting an abstract.
 
 Registration fees:
 + Earlybird full-time enrolled student registration - £250.00
@@ -19,7 +19,7 @@ Registration fees:
 + Full-time enrolled student registration  - £350.00
 + Standard registration - £450.00
 
-Earlybird fees are available until midnight on April 22, with regular fees applied from April 23. Registration via the link above will close on May 31st after which registration request should be made to [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk). The registration fees include admission to the technical sessions, coffee, day time refreshments and lunch every day, a formal dinner on Monday 12th June, and a drinks reception with bowl food on Tuesday 13th June.
+Earlybird fees are available until midnight on April 22, with regular fees applied from April 23. The registration fees include admission to the technical sessions, coffee, day time refreshments and lunch every day, a formal dinner on Monday 12th June, and a drinks reception with bowl food on Tuesday 13th June.
 
 Any enquiries about registration or refund shoud be made to [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk). If you require an invitation letter for the workshop, please email [conference@lmh.ox.ac.uk](mailto:conference@lmh.ox.ac.uk) only once registered.
 

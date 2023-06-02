@@ -24,7 +24,7 @@ GSP 2023 will take place at [Lady Margaret Hall (LMH)](https://www.lmh.ox.ac.uk)
   + Take the [Oxford Tube](https://www.stagecoachbus.com/promos-and-offers/oxfordshire/oxford-tube) bus service from Victoria Station and get off at Gloucester Green (Oxford Bus Station). The journey takes about 2 hours.
 + Directly to Oxford: You can take the [Airline](https://www.theairlineoxford.co.uk/) bus service from Heathrow/Gatwick to Oxford. From Heathrow, you can take it from the Central Bus Station at Terminals 2 and 3, or from stand 10 at Terminal 5. From Gatwick, you can take it from stands 1 and 2 in the South Terminal, or from stands 4 and 5 in North Terminal. In both cases, get off at Gloucester Green (Oxford Bus Station). The journey takes about 1.5 hours from Heathrow and 3 hours from Gatwick.
 
-**From Oxford City Centre to LMH**
+**From Oxford city centre to LMH**
 + If you arrive in Oxford by train or bus, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall%20from%20Oxford%20Rail%20and%20Bus%20Stations.pdf) from city centre to LMH.
 + If you arrive in Oxford by car, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall.pdf) to LMH.
 

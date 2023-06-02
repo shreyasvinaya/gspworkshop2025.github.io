@@ -15,14 +15,21 @@ GSP 2023 will take place at [Lady Margaret Hall (LMH)](https://www.lmh.ox.ac.uk)
 
 ---
 #### How to get there
+[**Update:** The direct train service from London Paddington Station to Oxford is currently being suspended. The information below has been updated to reflect this change. Please check the [trainline](https://www.thetrainline.com/trains/great-britain/industrial-action) website regularly for potential distruption of train services.]
+
 **From Heathrow Airport**
-+ Heathrow Express: The [Heathrow Express](https://www.heathrowexpress.com/) is a train that travels directly from Heathrow Airport to Paddington Station in London. You are then able to get trains directly from Paddington Station to Oxford. It is best booked in advance for cheaper prices.
-+ The Tube: You can get the Tube from Heathrow Airport to Paddington Station via the Elizabeth Line and then get a train directly from Paddington Station to Oxford. You do not need to get tickets in advance, but can via the trainline app.
-+ The Airline: The [Airline](https://www.theairlineoxford.co.uk/) is a bus that goes directly from Heathrow (and Gatwick) to Oxford. You can get it from the Central Bus Station at Terminals 2 and 3, and from stand 10 at Terminal 5. Get off at either High Street (Queens Lane) or Gloucester Green and LMH is a 20 minute walk away.
++ Via London: You can take the [Heathrow Express](https://www.heathrow.com/transport-and-directions/by-rail-or-train/heathrow-express) (15 mins) or the [Tube Elizabeth Line](https://www.heathrow.com/transport-and-directions/by-rail-or-train/elizabeth-line) (30 mins) from Heathrow Airport to Paddington Station in London. You then have several options:
+  + Take trains from Paddington Station to Oxford (change for a bus at Didcot Parkway). The journey takes about 1.5 hours.
+  + Take trains from Marylebone Station ot Oxford (direct train service). The journey takes about 1.5 hours.
+  + Take [Oxford Tube](https://www.stagecoachbus.com/promos-and-offers/oxfordshire/oxford-tube) from Victoria Station and get off at either High Street (Queens Lane) or Gloucester Green. The journey takes about 2 hours. LMH is then a 20-minute walk away.
++ Directly to Oxford: You can take the [Airline](https://www.theairlineoxford.co.uk/) which is a bus service from Heathrow (also Gatwick) to Oxford. You can take it from the Central Bus Station at Terminals 2 and 3, or from stand 10 at Terminal 5, and get off at either High Street (Queens Lane) or Gloucester Green. The journey takes about 1.5 hours. LMH is then a 20-minute walk away.
 
 **From Gatwick Airport**
-+ Gatwick Express: The [Gatwick Express](https://www.gatwickexpress.com/) is a train that travels directly from Gatwick to Victoria Station in London. From Victoria Station you can either get the [Oxford Tube](https://www.stagecoachbus.com/promos-and-offers/oxfordshire/oxford-tube) and get off at Gloucester Green, and then walk, or take the Tube from Victoria Station to Paddington Station and then a train from Paddington Station to Oxford.
-+ The Airline: The [Airline](https://www.theairlineoxford.co.uk/) is a bus that goes directly from Gatwick (and Heathrow) to Oxford. You can get it from stands 1 and 2 in the South Terminal, or from stands 4 and 5 in North Terminal. Get off at either High Street (Queens Lane) or Gloucester Green and LMH is a 20 minute walk away.
++ Via London: You can take the [Gatwick Express](https://www.gatwickexpress.com/) (30 mins) from Gatwick Airport to Victoria Station in London. You then have several options:
+  + Take trains from Paddington Station to Oxford (change for a bus at Didcot Parkway). The journey takes about 1.5 hours.
+  + Take trains from Marylebone Station ot Oxford (direct train service). The journey takes about 1.5 hours.
+  + Take [Oxford Tube](https://www.stagecoachbus.com/promos-and-offers/oxfordshire/oxford-tube) from Victoria Station and get off at either High Street (Queens Lane) or Gloucester Green. The journey takes about 2 hours. LMH is then a 20-minute walk away.
++ Directly to Oxford: You can take the [Airline](https://www.theairlineoxford.co.uk/) which is a bus service from Gatwick (also Heathrow) to Oxford. You can take it from stands 1 and 2 in the South Terminal, or from stands 4 and 5 in North Terminal, and get off at either High Street (Queens Lane) or Gloucester Green. The journey takes about 3 hours. LMH is then a 20-minute walk away.
 
 **From Oxford City Centre to LMH**
 + If you arrive in Oxford by train or bus, follow the directions [here](/assets/pdf/Directions%20to%20Lady%20Margaret%20Hall%20from%20Oxford%20Rail%20and%20Bus%20Stations.pdf) from city centre to LMH.

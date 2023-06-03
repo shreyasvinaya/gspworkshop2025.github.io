@@ -58,6 +58,12 @@
         }
     }
 }
+
+.instructor-info li.topic {
+    color: var(--global-shaded-bg-color); /* change the color of the text */
+}
+
+
 .instructor-profile-two-col {
     @extend %instructor-profile;
     width: 50%;
@@ -93,31 +99,29 @@
     }
 }
 
-.tooltip {
-    position: relative;
-    display: block;
-    border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    color: black;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
+/* Pop-up window hidden by default */
+.popup {
+    display: none;
     position: absolute;
     z-index: 1;
-    border:3px solid black;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -60px;
-    background-color:white;
-    opacity: 0;
-    transition: opacity 1s;
+    padding: 15px;
+    background-color: var(--global-bg-color);
+    color: var(--global-text-color);
+    border: 1px solid #888;
+    border-radius: 5px;
+    width: -webkit-calc(25%);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
+/* Show pop-up window when hover */
+.topic:hover .popup {
+    display: block;
+    background-color: var(--global-bg-color)
 }
+
+/* Style for topic on hover */
+.topic:hover {
+    background-color: var(--global-bg-color);
+    cursor: pointer;
+}
+

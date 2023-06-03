@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/_data/staff.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/staff.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/speakers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_profile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_profile.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_themes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_themes.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +139,7 @@
       <workItem from="1680795212997" duration="716000" />
       <workItem from="1682169284414" duration="2856000" />
       <workItem from="1685726626610" duration="1244000" />
+      <workItem from="1685794536522" duration="4437000" />
     </task>
     <servers />
   </component>

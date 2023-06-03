@@ -4,18 +4,21 @@ Speakers:
     affiliation: DeepMind
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en
     image: speakers/peter.jpg
+    topic: tbd
 
   - name: Wei Hu
     email: gspworkshop2023@gmail.com
     affiliation: Peking University
     url: https://www.wict.pku.edu.cn/huwei/
     image: speakers/wei.jpg
+    topic: Graph Spectral Processing and Analysis for 3D Point Clouds
 
   - name: Gitta Kutyniok
     email: gspworkshop2023@gmail.com
     affiliation: LMU Munich
     url: https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html
     image: speakers/gitta.jpg
+    topic: Reliable AI for Graph Signal Processing
 
   - name: Pietro Liò
     email: gspworkshop2023@gmail.com
@@ -28,12 +31,14 @@ Speakers:
     affiliation: ETH Zürich
     url: https://acl.inf.ethz.ch/people/markusp/
     image: speakers/markus.jpg
+    topic: Fourier Analysis with Direction
 
   - name: Hoi-To Wai
     email: gspworkshop2023@gmail.com
     affiliation: Chinese University of Hong Kong
     url: https://www1.se.cuhk.edu.hk/~htwai/
     image: speakers/hoito.jpg
+    topic: Low Pass Graph Signal Processing - Data Modeling, Inference, and Beyond
 
 
 Instructors:

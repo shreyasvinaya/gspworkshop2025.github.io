@@ -5,7 +5,7 @@
     <ul class="instructor-info">
       <li> <a href="{{ speaker.url }}" target="_blank">{{ speaker.name }}</a></li>
       <li>{{ speaker.affiliation }}</li>
-      <!--<li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li> -->
+      <li class="topic"> <hovers> Details (Hover to expand) </hovers> <span class="popup"> <b>{{ speaker.topic }}</b> {{ speaker.abstract }} {{ speaker.bio }} </span></li>
     </ul>
   </div>
   {% endfor %}

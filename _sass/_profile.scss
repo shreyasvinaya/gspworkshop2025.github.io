@@ -58,6 +58,12 @@
         }
     }
 }
+
+.instructor-info li.topic {
+    color: var(--global-shaded-bg-color); /* change the color of the text */
+}
+
+
 .instructor-profile-two-col {
     @extend %instructor-profile;
     width: 50%;
@@ -92,3 +98,30 @@
         }
     }
 }
+
+/* Pop-up window hidden by default */
+.popup {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    padding: 15px;
+    background-color: var(--global-bg-color);
+    color: var(--global-text-color);
+    border: 1px solid #888;
+    border-radius: 5px;
+    width: -webkit-calc(25%);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+/* Show pop-up window when hover */
+.topic:hover .popup {
+    display: block;
+    background-color: var(--global-bg-color)
+}
+
+/* Style for topic on hover */
+.topic:hover {
+    background-color: var(--global-bg-color);
+    cursor: pointer;
+}
+

@@ -49,7 +49,7 @@ Coming soon
 Gitta Kutyniok has received various awards for her research such as an award from the Universität Paderborn in 2003, the Research Prize of the Justus-Liebig Universität Gießen and a Heisenberg-Fellowship in 2006, and the von Kaven Prize by the DFG in 2007. She was invited as the Noether Lecturer at the ÖMG-DMV Congress in 2013, a plenary lecturer at the 8th European Congress of Mathematics (8ECM) in 2021, and the lecturer of the London Mathematical Society (LMS) Invited Lecture Series in 2022. She was also honored by invited lectures at both the International Congress of Mathematicians 2022 (ICM 2022) and the International Congress on Industrial and Applied Mathematics (ICIAM 2023). Moreover, she was elected as a member of the Berlin-Brandenburg Academy of Sciences and Humanities in 2017 and of the European Academy of Sciences in 2022, and became a SIAM Fellow in 2019. She is currently the main coordinator of the Research Focus “Next Generation AI” at the Center for Advanced Studies at LMU and the DFG-Priority Program “Theoretical Foundations of Deep Learning”, serves as Vice President-at-Large of SIAM, and acts as LMU-Director of the Konrad Zuse School of Excellence in Reliable AI (relAI) in Munich.
 Gitta Kutyniok’s research work covers, in particular, the areas of applied and computational harmonic analysis, artificial intelligence, compressed sensing, deep learning, imaging sciences, inverse problems, and applications to life sciences, robotics, and telecommunication.
 
-<p id="Pietro Liò"></p>
+<p id="Pietro Liò"><br></p>
 
 ##### **Pietro Liò**
 
@@ -63,7 +63,7 @@ Coming soon
 
 **Abstract**: Mainstream graph signal processing (GSP) provides no general solution in the case of directed edges in the signal domain, which is unsatisfactory (and somewhat surprising) given that classical discrete time is directed. In this talk I first present a possible solution for arbitrary directed graphs by generalizing the concept of cyclic boundary condition associated with the DFT. Then I present a novel approach to Fourier analysis and signal processing, fundamentally different from GSP, that targets signals whose domain is partially ordered. Important examples include power sets, meet/join lattices, and directed acyclic graphs. I present the theory and some prototypical applications in signal processing and machine learning.
 
-**Bio**: Markus Püschel is a Professor and former Department Head of Computer Science at ETH Zurich, Switzerland. Before, he was a Professor of Electrical and Computer Engineering at Carnegie Mellon University, where he still has an adjunct status. He is an IEEE Fellow and won the main student teaching awards at both CMU and ETH. As a department head he initiated a major faculty growth program and co-founded the Swiss Data Science Center. For more information on activities and other research interests, please visit https://acl.inf.ethz.ch/
+**Bio**: Markus Püschel is a Professor and former Department Head of Computer Science at ETH Zurich, Switzerland. Before, he was a Professor of Electrical and Computer Engineering at Carnegie Mellon University, where he still has an adjunct status. He is an IEEE Fellow and won the main student teaching awards at both CMU and ETH. As a department head he initiated a major faculty growth program and co-founded the Swiss Data Science Center. For more information on activities and other research interests, please visit https://acl.inf.ethz.ch/.
 
 <p id="Hoi-To Wai"><br></p>
 

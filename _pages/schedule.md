@@ -16,16 +16,15 @@ The agenda of the workshop can be found [here](https://gspworkshop.org/assets/pd
 #### Detailed programme
 The list of lectures and poster presentations can be found [here](https://gspworkshop.org/assets/pdf/List%20of%20Papers%20V4.pdf).
 
-
 #### Presentation format
 Lectures are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and landscape orientation are recommended.
-
 
 #### Plenary Talks
 
 <p id="Peter Battaglia"></p>
 
 ##### **Peter Battaglia**
+
 Coming soon
 
 <p id="Wei Hu"><br></p>

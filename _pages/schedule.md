@@ -26,8 +26,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 <p id="Peter Battaglia"></p>
 
 ##### **Peter Battaglia**
-
-Comming soon
+Coming soon
 
 <p id="Wei Hu"><br></p>
 

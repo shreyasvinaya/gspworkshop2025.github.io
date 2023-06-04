@@ -61,6 +61,13 @@
 
 .instructor-info li.topic {
     color: var(--global-shaded-bg-color); /* change the color of the text */
+
+    a {
+        color: var(--global-shaded-bg-color);
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 }
 
 

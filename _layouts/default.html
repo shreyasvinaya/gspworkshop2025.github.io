@@ -8,6 +8,21 @@
   {%- endif -%}
   {% include head.html %}
     {% include scripts/jquery.html %}
+    <script>
+      $(document).ready(function() {
+        // If there's a hash in the URL
+        if (window.location.hash) {
+          var hash = window.location.hash;
+          // Use JavaScript's History API to replace the current history entry
+          // This changes the URL without adding an entry to the browser's back button history
+          // The new URL is the same as the old, but without the hash
+          history.replaceState(null, null, window.location.pathname + window.location.search);
+          // Then navigate back to the original URL, forcing a page reload
+          window.location.href = window.location.href + hash;
+          console.warn("Warning")
+        }
+      });
+    </script>
   </head>
 
   <!-- Body -->

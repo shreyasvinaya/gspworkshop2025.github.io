@@ -21,13 +21,13 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 #### Plenary Talks
 
-<p id="Peter Battaglia"></p>
+<p id="PB"></p>
 
 ##### **Peter Battaglia**
 
 Coming soon
 
-<p id="Wei Hu"></p>
+<p id="WH"></p>
 
 ##### **Wei Hu**
 
@@ -37,7 +37,7 @@ Coming soon
 
 **Bio**: Wei Hu is an Assistant Professor with Wangxuan Institute of Computer Technology, Peking University. She received the B.S. degree in Electrical Engineering from the University of Science and Technology of China in 2010, and the Ph.D. degree in Electronic and Computer Engineering from the Hong Kong University of Science and Technology in 2015. She was a Researcher with Technicolor, Rennes, France, from 2015 to 2017. Her research interests are graph signal processing, graph-based machine learning and 3D visual computing. She has authored over 60 international journal and conference publications, with several paper awards including Best Paper Candidate in CVPR 2021 and Best Student Paper Runner Up Award in ICME 2020. She was awarded the 2021 IEEE Multimedia Rising Star Award---Honorable Mention, and Boya Young Fellow of Peking University. She serves as an Associate Editor for Signal Processing Magazine, IEEE Transactions on Signal and Information Processing over Networks, etc. She is also a TC member of IEEE MMSP, and MSA.
 
-<p id="Gitta Kutyniok"></p>
+<p id="GK"></p>
 
 ##### **Gitta Kutyniok**
 
@@ -49,13 +49,13 @@ Coming soon
 Gitta Kutyniok has received various awards for her research such as an award from the Universität Paderborn in 2003, the Research Prize of the Justus-Liebig Universität Gießen and a Heisenberg-Fellowship in 2006, and the von Kaven Prize by the DFG in 2007. She was invited as the Noether Lecturer at the ÖMG-DMV Congress in 2013, a plenary lecturer at the 8th European Congress of Mathematics (8ECM) in 2021, and the lecturer of the London Mathematical Society (LMS) Invited Lecture Series in 2022. She was also honored by invited lectures at both the International Congress of Mathematicians 2022 (ICM 2022) and the International Congress on Industrial and Applied Mathematics (ICIAM 2023). Moreover, she was elected as a member of the Berlin-Brandenburg Academy of Sciences and Humanities in 2017 and of the European Academy of Sciences in 2022, and became a SIAM Fellow in 2019. She is currently the main coordinator of the Research Focus “Next Generation AI” at the Center for Advanced Studies at LMU and the DFG-Priority Program “Theoretical Foundations of Deep Learning”, serves as Vice President-at-Large of SIAM, and acts as LMU-Director of the Konrad Zuse School of Excellence in Reliable AI (relAI) in Munich.
 Gitta Kutyniok’s research work covers, in particular, the areas of applied and computational harmonic analysis, artificial intelligence, compressed sensing, deep learning, imaging sciences, inverse problems, and applications to life sciences, robotics, and telecommunication.
 
-<p id="Pietro Liò"></p>
+<p id="PL"></p>
 
 ##### **Pietro Liò**
 
 Coming soon
 
-<p id="Markus Püschel"></p>
+<p id="MP"></p>
 
 ##### **Markus Püschel**
 
@@ -65,7 +65,7 @@ Coming soon
 
 **Bio**: Markus Püschel is a Professor and former Department Head of Computer Science at ETH Zurich, Switzerland. Before, he was a Professor of Electrical and Computer Engineering at Carnegie Mellon University, where he still has an adjunct status. He is an IEEE Fellow and won the main student teaching awards at both CMU and ETH. As a department head he initiated a major faculty growth program and co-founded the Swiss Data Science Center. For more information on activities and other research interests, please visit https://acl.inf.ethz.ch/.
 
-<p id="Hoi-To Wai"></p>
+<p id="HTW"></p>
 
 ##### **Hoi-To Wai**
 

@@ -16,19 +16,18 @@ The agenda of the workshop can be found [here](https://gspworkshop.org/assets/pd
 #### Detailed programme
 The list of lectures and poster presentations can be found [here](https://gspworkshop.org/assets/pdf/List%20of%20Papers%20V4.pdf).
 
-
 #### Presentation format
 Lectures are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and landscape orientation are recommended.
-
 
 #### Plenary Talks
 
 <p id="Peter Battaglia"></p>
 
 ##### **Peter Battaglia**
+
 Coming soon
 
-<p id="Wei Hu"><br></p>
+<p id="Wei Hu"></p>
 
 ##### **Wei Hu**
 
@@ -38,7 +37,7 @@ Coming soon
 
 **Bio**: Wei Hu is an Assistant Professor with Wangxuan Institute of Computer Technology, Peking University. She received the B.S. degree in Electrical Engineering from the University of Science and Technology of China in 2010, and the Ph.D. degree in Electronic and Computer Engineering from the Hong Kong University of Science and Technology in 2015. She was a Researcher with Technicolor, Rennes, France, from 2015 to 2017. Her research interests are graph signal processing, graph-based machine learning and 3D visual computing. She has authored over 60 international journal and conference publications, with several paper awards including Best Paper Candidate in CVPR 2021 and Best Student Paper Runner Up Award in ICME 2020. She was awarded the 2021 IEEE Multimedia Rising Star Award---Honorable Mention, and Boya Young Fellow of Peking University. She serves as an Associate Editor for Signal Processing Magazine, IEEE Transactions on Signal and Information Processing over Networks, etc. She is also a TC member of IEEE MMSP, and MSA.
 
-<p id="Gitta Kutyniok"><br></p>
+<p id="Gitta Kutyniok"></p>
 
 ##### **Gitta Kutyniok**
 
@@ -56,7 +55,7 @@ Gitta Kutyniok’s research work covers, in particular, the areas of applied and
 
 Coming soon
 
-<p id="Markus Püschel"><br></p>
+<p id="Markus Püschel"></p>
 
 ##### **Markus Püschel**
 
@@ -64,9 +63,9 @@ Coming soon
 
 **Abstract**: Mainstream graph signal processing (GSP) provides no general solution in the case of directed edges in the signal domain, which is unsatisfactory (and somewhat surprising) given that classical discrete time is directed. In this talk I first present a possible solution for arbitrary directed graphs by generalizing the concept of cyclic boundary condition associated with the DFT. Then I present a novel approach to Fourier analysis and signal processing, fundamentally different from GSP, that targets signals whose domain is partially ordered. Important examples include power sets, meet/join lattices, and directed acyclic graphs. I present the theory and some prototypical applications in signal processing and machine learning.
 
-**Bio**: Markus Püschel is a Professor and former Department Head of Computer Science at ETH Zurich, Switzerland. Before, he was a Professor of Electrical and Computer Engineering at Carnegie Mellon University, where he still has an adjunct status. He is an IEEE Fellow and won the main student teaching awards at both CMU and ETH. As a department head he initiated a major faculty growth program and co-founded the Swiss Data Science Center. For more information on activities and other research interests, please visit https://acl.inf.ethz.ch/
+**Bio**: Markus Püschel is a Professor and former Department Head of Computer Science at ETH Zurich, Switzerland. Before, he was a Professor of Electrical and Computer Engineering at Carnegie Mellon University, where he still has an adjunct status. He is an IEEE Fellow and won the main student teaching awards at both CMU and ETH. As a department head he initiated a major faculty growth program and co-founded the Swiss Data Science Center. For more information on activities and other research interests, please visit https://acl.inf.ethz.ch/.
 
-<p id="Hoi-To Wai"><br></p>
+<p id="Hoi-To Wai"></p>
 
 ##### **Hoi-To Wai**
 

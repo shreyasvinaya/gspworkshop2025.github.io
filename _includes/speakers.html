@@ -1,3 +1,15 @@
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('a[href*=\\#]').on('click', function(e) {
+      e.preventDefault();
+      var href = $(this).attr('href');
+      location.href = href;
+      location.reload();
+    });
+  });
+
+</script>
+
 <div class="instructors clearfix">
   {% for speaker in site.data.staff.Speakers %}
   <div class="instructor-profile-two-col">

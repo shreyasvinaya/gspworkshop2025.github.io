@@ -25,7 +25,9 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Peter Battaglia**
 
-Coming soon
+**Title**: Learning simulation: graphs, physics, and weather
+
+**Abstract**: Simulation is one of the most important tools in science and engineering. However accurate simulation faces two challenges: (1) heavy compute requirements, and (2) sophisticated underlying equations which require deep expertise to formulate. Recent advances in machine learning-based simulation are now addressing both challenges by (1) allowing dynamics to be modeled with cheaper representations and computations, and (2) learning dynamics models directly from data. This talk will survey advances in graph-based learned simulation from the past few years, then deep dive into recent advances in machine learning-based weather prediction that have resulted in learned simulators that outperform the top operational forecasting systems in the world.
 
 <p id="Wei Hu"></p>
 

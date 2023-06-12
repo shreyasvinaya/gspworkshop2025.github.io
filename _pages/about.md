@@ -21,6 +21,7 @@ GSP 2023 is kindly supported by the ELLIS Units of [Madrid](https://ellismadrid.
 
 ---
 #### News
++ **[2023/06/12]** Welcome to GSP'23! Slides for the opening address can be downloaded [here](https://gspworkshop.org/assets/pdf/opening.pdf).
 + **[2023/06/02]** Updated information about getting to Oxford is provided on the "Venue" page.
 + **[2023/05/20]** The programme of the workshop is now available on the "Schedule" page.
 + **[2023/03/29]** Notification of acceptance of abstracts has been sent out.

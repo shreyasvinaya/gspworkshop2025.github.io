@@ -25,7 +25,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Peter Battaglia**
 
-**Title**: Learning simulation: graphs, physics, and weather
+**Title**: Learning Simulation: Graphs, Physics, and Weather
 
 **Abstract**: Simulation is one of the most important tools in science and engineering. However accurate simulation faces two challenges: (1) heavy compute requirements, and (2) sophisticated underlying equations which require deep expertise to formulate. Recent advances in machine learning-based simulation are now addressing both challenges by (1) allowing dynamics to be modeled with cheaper representations and computations, and (2) learning dynamics models directly from data. This talk will survey advances in graph-based learned simulation from the past few years, then deep dive into recent advances in machine learning-based weather prediction that have resulted in learned simulators that outperform the top operational forecasting systems in the world.
 
@@ -55,7 +55,12 @@ Gitta Kutyniok’s research work covers, in particular, the areas of applied and
 
 ##### **Pietro Liò**
 
-Coming soon
+**Title**: AI and Medicine: Graph and Hypergraph Representation Learning
+
+**Abstract**: In this talk I will focus on how to build a digital patient twin using graph representation and considering physiological (cardiovascular), clinical (inflammation) and molecular variables (multi omics and genetics). I will consider different pathologies such as inflammating and immuno senescence through the use of neural graph ODEs. I will discuss how this approach could also keep the clinicians in the loop to avoid excessive automatisation using logic and explainer frameworks.
+
+**Bio**: Pietro Liò received the PhD degree in complex systems and non linear dynamics from the School of Informatics, dept of Engineering, University of Firenze, Italy and the PhD degree in theoretical genetics from the University of Pavia, Italy. He is currently a professor of computational biology with the Department of Computer Science and Technology, University of Cambridge
+and a member of the Artificial Intelligence Group. He is also a member of the Cambridge Centre for AI in medicine, ELLIS (European Laboratory for Learning and Intelligent Systems), Academia Europaea, Asia Pacific Artificial Intelligence Association, His research interests include graph representation learning, AI and Medicine, Systems Biology.
 
 <p id="Markus Püschel"></p>
 

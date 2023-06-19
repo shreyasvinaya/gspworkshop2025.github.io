@@ -66,7 +66,7 @@ and a member of the Artificial Intelligence Group. He is also a member of the Ca
 
 ##### **Markus Püschel**
 
-**Title**: Fourier Analysis with Direction [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
+**Title**: Fourier Analysis with Direction [[slides]](https://gspworkshop.org/assets/pdf/gsp-oxford-jun23.pdf)
 
 **Abstract**: Mainstream graph signal processing (GSP) provides no general solution in the case of directed edges in the signal domain, which is unsatisfactory (and somewhat surprising) given that classical discrete time is directed. In this talk I first present a possible solution for arbitrary directed graphs by generalizing the concept of cyclic boundary condition associated with the DFT. Then I present a novel approach to Fourier analysis and signal processing, fundamentally different from GSP, that targets signals whose domain is partially ordered. Important examples include power sets, meet/join lattices, and directed acyclic graphs. I present the theory and some prototypical applications in signal processing and machine learning.
 

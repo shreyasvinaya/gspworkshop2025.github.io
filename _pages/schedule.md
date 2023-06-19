@@ -25,7 +25,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Peter Battaglia**
 
-**Title**: Learning Simulation: Graphs, Physics, and Weather
+**Title**: Learning Simulation: Graphs, Physics, and Weather [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
 
 **Abstract**: Simulation is one of the most important tools in science and engineering. However accurate simulation faces two challenges: (1) heavy compute requirements, and (2) sophisticated underlying equations which require deep expertise to formulate. Recent advances in machine learning-based simulation are now addressing both challenges by (1) allowing dynamics to be modeled with cheaper representations and computations, and (2) learning dynamics models directly from data. This talk will survey advances in graph-based learned simulation from the past few years, then deep dive into recent advances in machine learning-based weather prediction that have resulted in learned simulators that outperform the top operational forecasting systems in the world.
 
@@ -33,7 +33,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Wei Hu**
 
-**Title**: Graph Spectral Processing and Analysis for 3D Point Clouds
+**Title**: Graph Spectral Processing and Analysis for 3D Point Clouds [[slides]](https://gspworkshop.org/assets/pdf/Wei%20Hu_GSPW2023.pdf)
 
 **Abstract**: Geometric data acquired from real-world scenes, e.g., 2D depth images, 3D point clouds, and 4D dynamic point clouds, have found a wide range of applications including autonomous driving, robotics, augmented and virtual reality, surveillance, etc. Due to irregular sampling patterns of most geometric data, traditional image / video processing methodologies are limited, while Graph Signal Processing (GSP)—a fast-developing field in the signal processing community—enables processing signals that reside on irregular domains. Further, GSP provides insightful spectral interpretations and domain knowledge for the recently developed Graph Neural Networks (GNNs), leading to interpretability and robustness of GNNs. In this talk, I will mainly introduce our works on graph-based representation, reconstruction and analysis of 3D point clouds to illustrate the power of graph spectral processing and analysis.
 
@@ -43,7 +43,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Gitta Kutyniok**
 
-**Title**: Reliable AI for Graph Signal Processing
+**Title**: Reliable AI for Graph Signal Processing [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
 
 **Abstract**: The new wave of artificial intelligence is impacting industry, public life, and the sciences in an unprecedented manner. A particular emphasis is on graph data due to the importance of application settings such as recommender systems, social media, or molecular dynamics. However, one current major drawback is the lack of reliability. The goal of this lecture is to first provide an introduction into this new vibrant research area. We will then survey recent advances, in particular, concerning performance guarantees and explainability methods, which are key to ensure reliability. Finally, we will discuss fundamental limitations in terms of computability, which seriously affect diverse aspects of reliability, and reveal a surprising connection to novel computing approaches such as neuromorphic computing and quantum computing.
 
@@ -55,7 +55,7 @@ Gitta Kutyniok’s research work covers, in particular, the areas of applied and
 
 ##### **Pietro Liò**
 
-**Title**: AI and Medicine: Graph and Hypergraph Representation Learning
+**Title**: AI and Medicine: Graph and Hypergraph Representation Learning [[slides]](https://gspworkshop.org/assets/pdf/gsp.pdf)
 
 **Abstract**: In this talk I will focus on how to build a digital patient twin using graph representation and considering physiological (cardiovascular), clinical (inflammation) and molecular variables (multi omics and genetics). I will consider different pathologies such as inflammating and immuno senescence through the use of neural graph ODEs. I will discuss how this approach could also keep the clinicians in the loop to avoid excessive automatisation using logic and explainer frameworks.
 
@@ -66,7 +66,7 @@ and a member of the Artificial Intelligence Group. He is also a member of the Ca
 
 ##### **Markus Püschel**
 
-**Title**: Fourier Analysis with Direction
+**Title**: Fourier Analysis with Direction [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
 
 **Abstract**: Mainstream graph signal processing (GSP) provides no general solution in the case of directed edges in the signal domain, which is unsatisfactory (and somewhat surprising) given that classical discrete time is directed. In this talk I first present a possible solution for arbitrary directed graphs by generalizing the concept of cyclic boundary condition associated with the DFT. Then I present a novel approach to Fourier analysis and signal processing, fundamentally different from GSP, that targets signals whose domain is partially ordered. Important examples include power sets, meet/join lattices, and directed acyclic graphs. I present the theory and some prototypical applications in signal processing and machine learning.
 
@@ -76,7 +76,7 @@ and a member of the Artificial Intelligence Group. He is also a member of the Ca
 
 ##### **Hoi-To Wai**
 
-**Title**: Low Pass Graph Signal Processing - Data Modeling, Inference, and Beyond
+**Title**: Low Pass Graph Signal Processing - Data Modeling, Inference, and Beyond [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
 
 **Abstract**: As a key building block in graph signal processing (GSP), graph filters has been used for giving an SP interpretation for network dynamics and the resultant graph data. SP methods such as frequency analysis, system identification, etc., have been applied with analogous interpretation to graph data, allowing us to interpret graph data as low/mid/high pass graph signals. This talk concentrates on GSP with low pass graph signals whose underlying graph filter attenuates contents in the high graph frequencies while retaining those in the low graph frequencies. Notice that this effectively implies the common notion of “smooth graph signals”. We first show the prevalence of low pass graph signals in data models such as for social networks, financial markets. We then demonstrate how properties of low pass graph signals can be leveraged for various forms of graph inference tasks from data. We will discuss recent results such as graph topology learning, inference of graph topology features such as community, centrality, detection of low pass graph signals, etc. The effects of low pass filtering in graph machine learning will also be discussed.
 

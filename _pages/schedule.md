@@ -55,7 +55,7 @@ Gitta Kutyniok’s research work covers, in particular, the areas of applied and
 
 ##### **Pietro Liò**
 
-**Title**: AI and Medicine: Graph and Hypergraph Representation Learning [[slides]](https://gspworkshop.org/assets/pdf/gsp.pdf)
+**Title**: AI and Medicine: Graph and Hypergraph Representation Learning [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
 
 **Abstract**: In this talk I will focus on how to build a digital patient twin using graph representation and considering physiological (cardiovascular), clinical (inflammation) and molecular variables (multi omics and genetics). I will consider different pathologies such as inflammating and immuno senescence through the use of neural graph ODEs. I will discuss how this approach could also keep the clinicians in the loop to avoid excessive automatisation using logic and explainer frameworks.
 

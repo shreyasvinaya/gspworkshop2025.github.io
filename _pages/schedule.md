@@ -76,7 +76,7 @@ and a member of the Artificial Intelligence Group. He is also a member of the Ca
 
 ##### **Hoi-To Wai**
 
-**Title**: Low Pass Graph Signal Processing - Data Modeling, Inference, and Beyond [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
+**Title**: Low Pass Graph Signal Processing - Data Modeling, Inference, and Beyond [[slides]](https://gspworkshop.org/assets/pdf/Low-Pass-GSP-Workshop.pdf)
 
 **Abstract**: As a key building block in graph signal processing (GSP), graph filters has been used for giving an SP interpretation for network dynamics and the resultant graph data. SP methods such as frequency analysis, system identification, etc., have been applied with analogous interpretation to graph data, allowing us to interpret graph data as low/mid/high pass graph signals. This talk concentrates on GSP with low pass graph signals whose underlying graph filter attenuates contents in the high graph frequencies while retaining those in the low graph frequencies. Notice that this effectively implies the common notion of “smooth graph signals”. We first show the prevalence of low pass graph signals in data models such as for social networks, financial markets. We then demonstrate how properties of low pass graph signals can be leveraged for various forms of graph inference tasks from data. We will discuss recent results such as graph topology learning, inference of graph topology features such as community, centrality, detection of low pass graph signals, etc. The effects of low pass filtering in graph machine learning will also be discussed.
 

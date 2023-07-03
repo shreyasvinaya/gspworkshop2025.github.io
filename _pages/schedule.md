@@ -25,7 +25,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Peter Battaglia**
 
-**Title**: Learning Simulation: Graphs, Physics, and Weather [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
+**Title**: Learning Simulation: Graphs, Physics, and Weather
 
 **Abstract**: Simulation is one of the most important tools in science and engineering. However accurate simulation faces two challenges: (1) heavy compute requirements, and (2) sophisticated underlying equations which require deep expertise to formulate. Recent advances in machine learning-based simulation are now addressing both challenges by (1) allowing dynamics to be modeled with cheaper representations and computations, and (2) learning dynamics models directly from data. This talk will survey advances in graph-based learned simulation from the past few years, then deep dive into recent advances in machine learning-based weather prediction that have resulted in learned simulators that outperform the top operational forecasting systems in the world.
 
@@ -43,7 +43,7 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### **Gitta Kutyniok**
 
-**Title**: Reliable AI for Graph Signal Processing [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
+**Title**: Reliable AI for Graph Signal Processing
 
 **Abstract**: The new wave of artificial intelligence is impacting industry, public life, and the sciences in an unprecedented manner. A particular emphasis is on graph data due to the importance of application settings such as recommender systems, social media, or molecular dynamics. However, one current major drawback is the lack of reliability. The goal of this lecture is to first provide an introduction into this new vibrant research area. We will then survey recent advances, in particular, concerning performance guarantees and explainability methods, which are key to ensure reliability. Finally, we will discuss fundamental limitations in terms of computability, which seriously affect diverse aspects of reliability, and reveal a surprising connection to novel computing approaches such as neuromorphic computing and quantum computing.
 
@@ -55,7 +55,7 @@ Gitta Kutyniok’s research work covers, in particular, the areas of applied and
 
 ##### **Pietro Liò**
 
-**Title**: AI and Medicine: Graph and Hypergraph Representation Learning [[slides]](https://gspworkshop.org/assets/pdf/xxx.pdf)
+**Title**: AI and Medicine: Graph and Hypergraph Representation Learning
 
 **Abstract**: In this talk I will focus on how to build a digital patient twin using graph representation and considering physiological (cardiovascular), clinical (inflammation) and molecular variables (multi omics and genetics). I will consider different pathologies such as inflammating and immuno senescence through the use of neural graph ODEs. I will discuss how this approach could also keep the clinicians in the loop to avoid excessive automatisation using logic and explainer frameworks.
 

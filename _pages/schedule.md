@@ -81,3 +81,33 @@ and a member of the Artificial Intelligence Group. He is also a member of the Ca
 **Abstract**: As a key building block in graph signal processing (GSP), graph filters has been used for giving an SP interpretation for network dynamics and the resultant graph data. SP methods such as frequency analysis, system identification, etc., have been applied with analogous interpretation to graph data, allowing us to interpret graph data as low/mid/high pass graph signals. This talk concentrates on GSP with low pass graph signals whose underlying graph filter attenuates contents in the high graph frequencies while retaining those in the low graph frequencies. Notice that this effectively implies the common notion of “smooth graph signals”. We first show the prevalence of low pass graph signals in data models such as for social networks, financial markets. We then demonstrate how properties of low pass graph signals can be leveraged for various forms of graph inference tasks from data. We will discuss recent results such as graph topology learning, inference of graph topology features such as community, centrality, detection of low pass graph signals, etc. The effects of low pass filtering in graph machine learning will also be discussed.
 
 **Bio**: Hoi-To Wai received his PhD degree from Arizona State University (ASU) in Electrical Engineering in Fall 2017, B. Eng. (with First Class Honor) and M. Phil. degrees in Electronic Engineering from The Chinese University of Hong Kong (CUHK) in 2010 and 2012, respectively. He is an Assistant Professor in the Department of Systems Engineering & Engineering Management at CUHK. He is also an Associate Editor for the IEEE Transactions on Signal and Information Processing over Networks. He has held research positions at ASU, UC Davis, Telecom ParisTech, Ecole Polytechnique, MIT. Hoi-To’s research interests are in the broad area of signal processing, machine learning and distributed optimization, with a focus of their applications to network science. His dissertation has received the 2017’s Dean’s Dissertation Award from the Ira A. Fulton Schools of Engineering of ASU and he is a recipient of Best Student Paper Award at ICASSP 2018.
+
+
+#### Selected Lectures
+
+Tangent Bundle Filters and Neural Networks from Manifolds to Cellular Sheaves and Back [[slides]](/assets/slides/TNN_GSP_PRES.pdf)
+
+
+T-HyperGNNs: Hypergraph Neural Networks Via Tensor Representations [[slides]](/assets/slides/GSP_presentation_2.pdf)
+
+
+GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering [[slides]](/assets/slides/gsp2023_graphmad.pdf)
+
+
+Decentralized Graph Based Filter Design Using Normalized Adjacency Matrix [[slides]](/assets/slides/GSPworkshop2023_Yufan_Fan.pdf)
+
+
+Recursive Median Filters for Time-Varying Graph Signal Denoising [[slides]](/assets/slides/GSP_workshop_2023_presentation.pdf)
+
+
+Limits of graph neural networks on large random graphs [[slides]](/assets/slides/gspworkshop 2023_oral.pdf)
+
+
+Multiscale Hodge Scattering Networks on Simplicial Complexes [[slides]](/assets/slides/gsp23slides.pdf)
+
+
+A data-driven graph framework for geometric understanding of deep learning [[slides]](/assets/slides/Geometry of learning GSP Workshop.pdf)
+
+Fast Topology Identification from Smooth Graph Signals [[slides]](/assets/slides/FDPG_GSPW23.pdf)
+
+Robust Graph Filter Identification and Graph Denoising from Signal Observations [[slides]](/assets/slides/TSP22_robust_filter_identification.pdf)

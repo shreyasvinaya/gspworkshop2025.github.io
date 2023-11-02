@@ -3,7 +3,7 @@ layout: page
 permalink: /venue/
 title: Venue
 description: 
-nav: true
+nav: false
 nav_order: 4
 
 top_image: /assets/img/gsp23/LMH+Gardens+Punts_cropped.jpg

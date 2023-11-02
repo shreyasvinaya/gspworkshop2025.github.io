@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Schedule
 description: 
-nav: true
+nav: false
 nav_order: 3
 
 top_image: /assets/img/gsp23/LMH+Simpkins+Lee+Theatre+(14)_cropped_smaller.jpg

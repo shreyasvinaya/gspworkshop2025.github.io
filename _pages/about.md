@@ -38,7 +38,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Name](webpage) (Institution)
 --->
 
-#{% include speakers.html %}
+#include speakers.html , add brackets and percent
 
 ---
 #### Organizing Committee
@@ -48,7 +48,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Luana Ruiz](https://luanaruiz9.github.io/) (Johns Hopkins University)
 --->
 
-#{% include staff.html %}
+#include staff.html
 
 
 ---
@@ -57,10 +57,10 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Name](webapge) (Institution)
 --->
 
-#{% include local_team.html %}
+#include local_team.html
 
 
 ---
 #### Co-organizers
 
-#{% include co_organizers.html %}
+#include co_organizers.html

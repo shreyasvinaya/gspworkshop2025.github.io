@@ -17,7 +17,7 @@ Following a series of successful workshops since 2016, we are pleased to announc
 
 The workshop will provide a warm welcome to experts and practitioners from academia and industry in the field of graph signal processing (GSP). The goal of GSP is to generalize classical signal processing and statistical learning tools to signals on graphs (functions defined on a graph). The workshop will invite discussion on theoretical and foundational topics related to GSP, including graph transforms, sampling theorems, and filter design. The workshop will also highlight how such tools can be integrated into a learning framework, and show novel theoretical developments at the intersection of graph signal processing and graph machine learning. Examples of applications that will be showcased in the workshop include gene expression patterns defined on top of gene networks, the spread of epidemics over a social network, the congestion level at the nodes of a telecommunication network, and patterns of brain activity defined on top of a brain network.
 
-#GSP 2024 is kindly supported by the ELLIS Units of [Madrid](https://ellismadrid.es) and [Lausanne](https://www.epfl.ch/research/domains/epfl-ellis/), and the [Center for Intelligent Systems](https://www.epfl.ch/research/domains/cis/) at EPFL.
+GSP 2024 is kindly supported by the ELLIS Units of [Madrid](https://ellismadrid.es) and [Lausanne](https://www.epfl.ch/research/domains/epfl-ellis/), and the [Center for Intelligent Systems](https://www.epfl.ch/research/domains/cis/) at EPFL.
 
 ---
 #### News
@@ -38,7 +38,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Name](webpage) (Institution)
 --->
 
-#{% include speakers.html %}
+{% include speakers.html %}
 
 ---
 #### Organizing Committee
@@ -48,7 +48,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Luana Ruiz](https://luanaruiz9.github.io/) (Johns Hopkins University)
 --->
 
-#{% include staff.html %}
+{% include staff.html %}
 
 
 ---
@@ -57,10 +57,10 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Name](webapge) (Institution)
 --->
 
-#{% include local_team.html %}
+{% include local_team.html %}
 
 
 ---
 #### Co-organizers
 
-#{% include co_organizers.html %}
+{% include co_organizers.html %}

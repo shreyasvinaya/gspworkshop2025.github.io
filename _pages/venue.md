@@ -3,7 +3,7 @@ layout: page
 permalink: /venue/
 title: Venue
 description: 
-nav: false
+nav: true
 nav_order: 2
 
 top_image: /assets/img/gsp24/university.jpg

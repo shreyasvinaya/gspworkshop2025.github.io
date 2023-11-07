@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: Graph Signal Processing Workshop # the website title (if blank, full name will be used instead)
-header: GSP 2023
-first_name: Graph Signal Processing Workshop 2023
+header: GSP 2024
+first_name: Graph Signal Processing Workshop 2024
 middle_name:
 last_name:
-email: gspworkshop2023@gmail.com
+email: gspworkshop2024@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  GSP Workshop 2023.
+  GSP Workshop 2024.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

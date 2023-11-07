@@ -33,8 +33,10 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Organizing Committee
-<!---
-+ [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3)(Delft University of Technology)
-+ [Elvin Isufi](https://sites.google.com/site/elvinisufihp/) (Delft University of Technology)
-+ [Antonio Marques](https://www.tsc.urjc.es/~amarques/) (King Juan Carlos University)
---->
++ [Geert Leus](General Chair)
++ [Elvin Isufi](General Co-Chair)
++ [Antonio Marques](Technical Program Chair)
++ [Gonzalo Mateos](Invited Speakers Chair)
++ [Santiago Segarra](Industry Liaison Chair)
++ [Luana Ruiz](Publicity Chair)
+

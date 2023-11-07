@@ -6,24 +6,22 @@ description:
 nav: true
 nav_order: 1
 
-top_image: /assets/img/gsp23/garden.jpg
-top_image_alt: "Lady Margaret Hall gardens."
+top_image: /assets/img/gsp24/delft.jpg
+top_image_alt: "Delft, The Netherlands."
 ---
 
 #### Important Dates
-+ **Submission open:** February 1, 2023
-+ **Submission deadline:** <s>March 1, 2023</s> March 15, 2023
-+ **Notification of acceptance:** <s>March 15, 2023</s> April 1, 2023
-+ **Early registration:** <s>April 1, 2023</s> April 22, 2023
-+ **Workshop:** June 12-14, 2023
++ **Submission open:** February 1, 2024
++ **Submission deadline:** March 15, 2024
++ **Notification of acceptance:** April 1, 2024
++ **Early registration:** April 14, 2024
++ **Workshop:** June 24-26, 2024
 
 ---
 #### Submission
-We accept submission of **2-page extended abstracts** with standard IEEE or ACM format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2023".
+We accept submission of **2-page extended abstracts** with standard IEEE or ACM format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2024".
 
-Submission is now open [here](https://cmt3.research.microsoft.com/GSP2023).
-
-If you have any questions regarding submission or enquiries about the workshop, please contact [gspworkshop2023@gmail.com](mailto:gspworkshop2023@gmail.com).
+If you have any questions regarding submission or enquiries about the workshop, please contact [gspworkshop2024@gmail.com](mailto:gspworkshop2024@gmail.com).
 
 ---
 #### Area of interest
@@ -40,7 +38,10 @@ Topics of interest include but are not limited to:
 + Statistical graph signal processing
 + Signal processing on higher-order networks
 + Non-linear graph signal processing
++ Signal processing on dynamic graphs
++ Joint time-vertex signal processing
 + Prediction and learning in graphs
++ Graph-based machine learning
 + Geometric deep learning (graph CNNs/RNNs)
 + Representation learning on graphs
 + Reinforcement learning on graphs
@@ -48,3 +49,5 @@ Topics of interest include but are not limited to:
 + Applications to neuroscience and other medical fields
 + Applications to economics and social networks
 + Applications to infrastructure networks (e.g., communication, transportation, power networks)
++ Distributed optimization
++ Federated learning

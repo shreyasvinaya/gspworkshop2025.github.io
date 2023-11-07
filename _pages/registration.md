@@ -3,7 +3,7 @@ layout: page
 permalink: /registration/
 title: Registration
 description: 
-nav: false
+nav: true
 nav_order: 2
 
 top_image: /assets/img/gsp23/LMH+Deneke+Dining+Hall++(3)_cropped.jpg

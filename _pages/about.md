@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-#subtitle: <a href='#'>GSP'23</a>. Address. gspworkshop2024@gmail.com. Moto. Etc.
+#subtitle: <a href='#'>GSP'24</a>. Address. gspworkshop2024@gmail.com. Moto. Etc.
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,11 +20,17 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 ---
 #### News
 + **[2023/11/06]** The website is now up.
----
-#### Important Dates
-+ **Workshop:** June 24-26, 2024
+
 
 ---
+#### Important Dates
++ **Submission open:** February 1, 2024
++ **Submission deadline:** March 15, 2024
++ **Notification of acceptance:** April 1, 2024
++ **Early registration:** April 14, 2024
++ **Workshop:** June 24-26, 2024
+
+
 ---
 #### Organizing Committee
 <!---

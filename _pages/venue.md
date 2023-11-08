@@ -14,10 +14,10 @@ top_image_alt: "Delft University of Technology"
 GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/), Delft University of Technology, Delft, The Netherlands.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/aula.jpg" title="Aula Conference Center" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/tudelft.jpg" title="Tu Delft" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
     </div>
 </div>
@@ -45,13 +45,13 @@ GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.n
 ### The city
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft2.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft3.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft4.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 

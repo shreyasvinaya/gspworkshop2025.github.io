@@ -16,5 +16,6 @@ organizer: true
 Previous editions of the Graph Signal Processing Workshop:
 
 + [GSP'23](https://gspworkshop.org/2023/)
++ [GSP'20](https://www.easychair.org/cfp/GSP2020)
 + [GSP'18](https://gsp18.epfl.ch/)
 + [GSP'17](https://gsp17.ece.cmu.edu/about/)

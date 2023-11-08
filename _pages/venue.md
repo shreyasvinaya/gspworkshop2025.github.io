@@ -32,10 +32,10 @@ GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.n
 + Watch out for bikes :wink:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/train.jpg" title="Train station" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/bikes.jpg" title="Bikes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -45,14 +45,14 @@ GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.n
 ### The city
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft2.jpg" title=" " class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft3.jpg" title=" " class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/delft24.jpg" title=" " class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp24/delft4.jpg" title=" " class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>

@@ -33,10 +33,10 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Organizing Committee
-+ [Geert Leus](), General Chair
-+ [Elvin Isufi](), General Co-Chair
-+ [Antonio Marques](), Technical Program Chair
-+ [Gonzalo Mateos](), Invited Speakers Chair
-+ [Santiago Segarra](), Industry Liaison Chair
-+ [Luana Ruiz](), Publicity Chair
++ [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3), General Chair
++ [Elvin Isufi](https://sites.google.com/site/elvinisufihp/), General Co-Chair
++ [Antonio Marques](https://www.tsc.urjc.es/~amarques/), Technical Program Chair
++ [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos/), Invited Speakers Chair
++ [Santiago Segarra](https://segarra.rice.edu/), Industry Liaison Chair
++ [Luana Ruiz](https://luanaruiz9.github.io), Publicity Chair
 

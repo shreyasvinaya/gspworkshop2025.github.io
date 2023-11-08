@@ -10,9 +10,9 @@ top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"
 ---
 
-myimg{
+.myimg{
     float: left;
-    height: 100px;
+    height: 10px;
     object-fit: cover;
 }
 

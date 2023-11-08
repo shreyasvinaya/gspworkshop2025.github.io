@@ -49,5 +49,3 @@ Topics of interest include but are not limited to:
 + Applications to neuroscience and other medical fields
 + Applications to economics and social networks
 + Applications to infrastructure networks (e.g., communication, transportation, power networks)
-+ Distributed optimization
-+ Federated learning

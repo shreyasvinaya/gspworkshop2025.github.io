@@ -18,6 +18,6 @@ GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.n
 
 + Amsterdam is well connected to the rest of the world. From Schiphol Airport you can take a direct train to Delft (around 40 minutes).
 + The Delft train station is within walking distance of most hotels (5-15 minutes).
-+ The university campus is within walking distance (25 minutes), and can can also be reached by bus/tram.
++ The university campus is within walking distance (25 minutes), and can also be reached by bus/tram.
 + Watch out for bikes :wink:
 

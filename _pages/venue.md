@@ -56,13 +56,3 @@ GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.n
     </div>
 
 </div>
-
-carousels:
-  - images: 
-    - image: /assets/img/gsp24/aula.jpg
-    - image: /uploads/slider/tudelft.jpg
-  - images: 
-    - image: /assets/img/gsp24/delft.jpg
-    - image: /assets/img/gsp24/delft2.jpg
-    - image: /assets/img/gsp24/delft3.jpg
-    - image: /assets/img/gsp24/delft4.jpg

@@ -26,6 +26,15 @@ layout: default
 
             <!-- Page contents (from markdown) -->
             {{ content }}
+		
+            <!-- Carousel 1 -->
+            {% if page.carousels -%}
+
+	    	    {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+	    	    {% include carousel.html height="50" unit="%" duration="7" number="2" %}
+
+	       {%- endif %}
 
           </article>
 

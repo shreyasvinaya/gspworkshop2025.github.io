@@ -14,10 +14,10 @@ top_image_alt: "Delft University of Technology"
 GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/), Delft University of Technology, Delft, The Netherlands.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/aula.jpg" title="Aula Conference Center" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/aula2.jpg" title="Tu Delft" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
     </div>
 </div>
@@ -26,23 +26,19 @@ GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.n
 ---
 #### How to get there
 
-**Amsterdam to Delft train station**
-Amsterdam is well connected to the rest of the world. From Schiphol Airport you can take a direct train to Delft (around 40 minutes). 
+**Amsterdam to Delft train station:** Amsterdam is well connected to the rest of the world. From Schiphol Airport you can take a direct train to Delft (around 40 minutes). 
 + For information on the actual timetables and prices, download the NS app or the 9292 app, or visit ns.nl or 9292.nl. 
 + You can pay for your trip with your debit or credit card (Maestro, V PAY, Mastercard or Visa are supported) at the entrance gates of the station. If you do not have a supported card, you can digitally purchase a train ticket via the 9292 or NS app (note that the 9292 app also allows to purchase bus tickets). 
 
 
-**Delft train station to hotel** 
-The Delft train station is within walking distance of most hotels (5-15 minutes).
+**Delft train station to hotel:** The Delft train station is within walking distance of most hotels (5-15 minutes).
 
-**To the venue**
-The Aula Conference Centre is within walking distance (25 minutes) of Delft Train Station. 
+**To the venue:** The Aula Conference Centre is within walking distance (25 minutes) of Delft Train Station. 
 Alternatively, the venue can be reached by bus, which leaves from the south side of the station. 
 + Take bus number 69, 455, or 174 and get out at 'Halte Aula TU, Delft'. For actual timings, see the NS app or the 9292 app, or visit ns.nl or 9292.nl. 
 + Bus tickets can be purchased on the bus itself, using your debit or credit card (Maestro, V PAY, Mastercard or Visa are supported). Alternatively, you can purchase a bus ticket via the 9292 app. 
 
-**Transport by car**
-The parking lot closest to the venue is located at the Van der Waalsweg (to reach the parking lot, after leaving the roundabout, you directly take the right). 
+**Transport by car:** The parking lot closest to the venue is located at the Van der Waalsweg (to reach the parking lot, after leaving the roundabout, you directly take the right). 
 + The hourly rate is 2 euros/ hour, with a maximum of 10 euros daily. Note that the gates do not open if the parking lot is full. In that case, please resort to the parking lot at the Van den Broekweg 1. 
 + You need to scan a mifare card (e.g., your bank card or credit card) to enter. When scanning your card, no transaction will occur; you need to pay at a machine in the parking lot before you leave. 
 + Do not park in the nearby neighborhood, i.e., non-TU Delft parking areas, since you need a permit for that! 
@@ -71,19 +67,15 @@ Delft boasts a diverse culinary landscape, thanks in part to its thriving intern
 + For a cozy and inviting atmosphere with dishes inspired by far-flung locales such as South Africa, Mexico, Thailand, Peru, and Sri Lanka, venture to "Hanno Groots Cafe." 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft2.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/delft3.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft4.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 
 </div>
 
----
 ### Sightseeing
 
 Other than the university campus itself, which is (also) one of the main attractions of the city, we recommend visiting the following: 
@@ -102,4 +94,13 @@ Other than the university campus itself, which is (also) one of the main attract
 + Markets: Browse local markets, such as the Saturday market, to sample fresh Dutch cheese, local produce, and unique crafts. 
 + Biking: Rent a bike to experience Delft and its beautiful surroundings like a local, with numerous cycling routes to explore. 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp24/delft3.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp24/delft5.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+    </div>
+
+</div>
 

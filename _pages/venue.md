@@ -14,10 +14,10 @@ top_image_alt: "Delft University of Technology"
 GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/), Delft University of Technology, Delft, The Netherlands.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3.7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/aula.jpg" title="Aula Conference Center" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-8.3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/aula2.jpg" title="Tu Delft" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
     </div>
 </div>
@@ -47,10 +47,10 @@ Alternatively, the venue can be reached by bus, which leaves from the south side
 **Watch out for bikes! :wink:**
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-6.5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/train.jpg" title="Train station" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5.5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/bikes.jpg" title="Bikes" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 </div>
@@ -95,10 +95,10 @@ Other than the university campus itself, which is (also) one of the main attract
 + Biking: Rent a bike to experience Delft and its beautiful surroundings like a local, with numerous cycling routes to explore. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-5.9 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft3.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-6.1 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp24/delft5.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 

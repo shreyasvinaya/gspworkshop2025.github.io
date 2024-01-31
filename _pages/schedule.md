@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
+title: "Schedule"
 description: 
-nav: true
-nav_order: 2
+nav: false
+nav_order: 3
 
 top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"

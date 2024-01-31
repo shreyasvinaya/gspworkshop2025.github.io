@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-#subtitle: <a href='#'>GSP'24</a>. Address. gspworkshop2024@gmail.com. Moto. Etc.
+#subtitle: <a href='#'>Home</a>. Address. gspworkshop2024@gmail.com. Moto. Etc.
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,6 +19,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### News
++ **[2024/02/01]** Submissions are open [here](https://cmt3.research.microsoft.com/GSP2024).
 + **[2023/11/06]** The website is now up.
 
 
@@ -29,6 +30,19 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + **Notification of acceptance:** April 1, 2024
 + **Early registration:** April 14, 2024
 + **Workshop:** June 24-26, 2024
+
+
+---
+#### Invited Speakers
+
+<!---
++ [Sergio Barbarossa](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home)(Sapienza University of Rome)
++ [Georgios Giannakis](https://spincom.umn.edu/) (University of Minnesota)
++ [Francesca Parise](https://sites.coecis.cornell.edu/parise/) (Cornell University)
++ [Stefan Vlaski](https://stefanvlaski.github.io/) (Imperial College London)
++ [Smita Krishnaswamy](https://krishnaswamylab.org/) (Yale University)
++ [Piet Van Mieghen](https://www.nas.ewi.tudelft.nl/people/Piet/) (TU Delft)
+--->
 
 
 ---

@@ -4,7 +4,7 @@ permalink: /venue/
 title: Venue
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 
 top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"

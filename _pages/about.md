@@ -34,7 +34,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Invited Speakers
-+ [Sergio Barbarossa](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home)(Sapienza University of Rome)
++ [Sergio Barbarossa](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home) Sapienza University of Rome)
 + [Georgios Giannakis](https://spincom.umn.edu/) (University of Minnesota)
 + [Francesca Parise](https://sites.coecis.cornell.edu/parise/) (Cornell University)
 + [Stefan Vlaski](https://stefanvlaski.github.io/) (Imperial College London)

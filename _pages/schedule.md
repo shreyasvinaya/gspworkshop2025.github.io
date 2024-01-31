@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /2023/schedule/
+permalink: /schedule/
 title: Schedule
 description: 
-nav: 2
+nav: true
+nav_order: 2
 
 top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"

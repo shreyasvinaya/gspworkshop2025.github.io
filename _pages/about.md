@@ -9,11 +9,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 organizer: true
 
-top_image: /assets/img/gsp24/delft.jpg
+top_image: /assets/img/gsp24/delft_logo.jpg
 top_image_alt: "Delft, The Netherlands"
 ---
 
-Following a series of successful workshops since 2016, we are pleased to announce that the 7th Edition of the Graph Signal Processing Workshop will be held **June 24-26 in Delft, The Netherlands** as an in-person event. <img style="float: right;" src="GSP24_logo_final.png">
+Following a series of successful workshops since 2016, we are pleased to announce that the 7th Edition of the Graph Signal Processing Workshop will be held **June 24-26 in Delft, The Netherlands** as an in-person event.
 
 The workshop will provide a warm welcome to experts and practitioners from academia and industry in the field of graph signal processing (GSP). The goal of GSP is to generalize classical signal processing and statistical learning tools to signals on graphs (functions defined on a graph). The workshop will invite discussion on theoretical and foundational topics related to GSP, including graph transforms, sampling theorems, and filter design. The workshop will also highlight how such tools can be integrated into a learning framework, and show novel theoretical developments at the intersection of graph signal processing and graph machine learning. Examples of applications that will be showcased in the workshop include gene expression patterns defined on top of gene networks, the spread of epidemics over a social network, the congestion level at the nodes of a telecommunication network, and patterns of brain activity defined on top of a brain network.
 
@@ -34,12 +34,17 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 ---
 #### Invited Speakers
+
+<!---
 + [Sergio Barbarossa](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home) (Sapienza University of Rome)
 + [Georgios Giannakis](https://spincom.umn.edu/) (University of Minnesota)
 + [Francesca Parise](https://sites.coecis.cornell.edu/parise/) (Cornell University)
 + [Stefan Vlaski](https://stefanvlaski.github.io/) (Imperial College London)
 + [Smita Krishnaswamy](https://krishnaswamylab.org/) (Yale University)
 + [Piet Van Mieghen](https://www.nas.ewi.tudelft.nl/people/Piet/) (TU Delft)
+--->
+
+{% include speakers.html %}
 
 
 ---
@@ -47,6 +52,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3), General Chair
 + [Elvin Isufi](https://sites.google.com/site/elvinisufihp/), General Co-Chair
 + [Antonio Marques](https://www.tsc.urjc.es/~amarques/), Technical Program Chair
++ [Samuel Rey](https://gestion2.urjc.es/pdi/ver/samuel.rey.escudero), Technical Program Co-Chair
 + [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/sites/gmateos/), Invited Speakers Chair
 + [Santiago Segarra](https://segarra.rice.edu/), Industry Liaison Chair
 + [Luana Ruiz](https://luanaruiz9.github.io), Publicity Chair

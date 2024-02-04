@@ -57,3 +57,11 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Santiago Segarra](https://segarra.rice.edu/), Industry Liaison Chair
 + [Luana Ruiz](https://luanaruiz9.github.io), Publicity Chair
 
+
+---
+#### Local Student Volunteers
++ [Alberto Natali](https://sps.ewi.tudelft.nl/People/bio.php?id=657)
++ [Ruben Wijnands](https://sps.ewi.tudelft.nl/People/bio.php?id=867)
++ [Mohammad Sabbaqi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
++ [Maosheng Yang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/maosheng-yang)
++ [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)

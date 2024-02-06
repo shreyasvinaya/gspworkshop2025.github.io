@@ -41,7 +41,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 + [Francesca Parise](https://sites.coecis.cornell.edu/parise/) (Cornell University)
 + [Stefan Vlaski](https://stefanvlaski.github.io/) (Imperial College London)
 + [Smita Krishnaswamy](https://krishnaswamylab.org/) (Yale University)
-+ [Piet Van Mieghen](https://www.nas.ewi.tudelft.nl/people/Piet/) (TU Delft)
++ [Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) (TU Delft)
 --->
 
 {% include speakers.html %}

@@ -37,7 +37,7 @@ The workshop will provide a warm welcome to experts and practitioners from acade
 
 <!---
 + [Sergio Barbarossa](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home) (Sapienza University of Rome)
-+ [Georgios Giannakis](https://spincom.umn.edu/) (University of Minnesota)
++ [Georgios B. Giannakis](https://spincom.umn.edu/) (University of Minnesota)
 + [Francesca Parise](https://sites.coecis.cornell.edu/parise/) (Cornell University)
 + [Stefan Vlaski](https://stefanvlaski.github.io/) (Imperial College London)
 + [Smita Krishnaswamy](https://krishnaswamylab.org/) (Yale University)

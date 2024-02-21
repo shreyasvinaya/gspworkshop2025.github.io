@@ -27,9 +27,9 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 #### Plenary Talks
 
-<p id="Georgios Giannakis"></p>
+<p id="Georgios B. Giannakis"></p>
 
-##### [**Georgios Giannakis**](https://spincom.umn.edu/), University of Minnesota
+##### [**Georgios B. Giannakis**](https://spincom.umn.edu/), University of Minnesota
 
 <p id="Francesca Parise"></p>
 
@@ -43,9 +43,9 @@ Lectures are 20-minutes long (including Q&As). The format of posters is flexible
 
 ##### [**Smita Krishnaswamy**](https://krishnaswamylab.org/), Yale University
 
-<p id="Piet Van Mieghen"></p>
+<p id="Piet Van Mieghem"></p>
 
-##### [**Piet Van Mieghen**](https://www.nas.ewi.tudelft.nl/people/Piet/), TU Delft
+##### [**Piet Van Mieghem**](https://www.nas.ewi.tudelft.nl/people/Piet/), TU Delft
 
 #### Selected Lectures
 

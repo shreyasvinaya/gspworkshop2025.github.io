@@ -61,7 +61,7 @@ Alternatively, the venue can be reached by bus, which leaves from the south side
 Among the multiple accommodation options in Delft, we recommend a few hotels at a convenient distance to the workshop venue:
  
 + [The Social Hub](https://www.thesocialhub.co/delft/stay/hotel-stay/), 20 min walking distance
-Hampshire hotel (https://hoteldelftcentre.nl/en/home-en/ ), 25 min walking distance
++ [Hampshire hotel](https://hoteldelftcentre.nl/en/home-en/ ), 25 min walking distance
 + [Best Western Museumhotels Delft](https://www.bestwestern.nl/booking-path/hotel-details/grand-museum-hotel-bw-signature-collection-delft-92579), 30 min walking distance
 + [Hotel Arsenaal Delft By Westcord](https://hotelarsenaal.com/), 20 min walking distance
 + [Ibis Styles Delft City Center](https://www.ibisstylesdelftcity.nl/en/), 20 min walking distance

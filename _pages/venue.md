@@ -56,7 +56,7 @@ Alternatively, the venue can be reached by bus, which leaves from the south side
 </div>
 
 ---
-### Accomodation
+### Accommodation
 
 Among the multiple accommodation options in Delft, we recommend a few hotels at a convenient distance to the workshop venue:
  

@@ -5,27 +5,11 @@ title: "Patrons"
 description: 
 nav: true
 nav_order: 5
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
-organizer: true
-
 ---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/elsevierlogo.png" title="Elsevier" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        Elsevier
-    </div>
-</div>
-
----
 ### Elsevier
 
-Science Talks is an open access journal that publishes original, peer-reviewed videos of scientific presentations, tutorials, and news and views. The journal is open to submissions from all areas of mathematical and physical sciences, engineering, medicine, biological sciences, humanities, and social sciences. Published videos are accompanied by a manuscript that includes an abstract, figures, tables, and references presented in the video. Recent publications in Science Talks can be found here: [Science Talks | All Journal Issues | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/science-talks/issues)
+Science Talks is an open access journal that publishes original, peer-reviewed videos of scientific presentations, tutorials, and news and views. The journal is open to submissions from all areas of mathematical and physical sciences, engineering, medicine, biological sciences, humanities, and social sciences. Published videos are accompanied by a manuscript that includes an abstract, figures, tables, and references presented in the video. Recent publications in Science Talks can be found here: [**Science Talks**]() [**All Journal Issues**]() [**ScienceDirect.com by Elsevier**](https://www.sciencedirect.com/journal/science-talks/issues)
  
 There are many benefits to publishing in Science Talks: 
 
@@ -39,7 +23,7 @@ Our easy-to-use use template makes it easy for participants to submit a manuscri
 
 **Videos are freely accessible**
  
-All Science Talks videos are immediately and freely available to download and use. Published videos receive a DOI so that they can be cited, and they are hosted on ScienceDirect—the world’s largest scientific content platform with 20 million+ active users.? We also add closed captioning and a transcript of the video prior to publication.?  
+All Science Talks videos are immediately and freely available to download and use. Published videos receive a DOI so that they can be cited, and they are hosted on ScienceDirect—the world’s largest scientific content platform with 20 million+ active users.? We also add closed captioning and a transcript of the video prior to publication. 
 
 **Videos are free to publish**
  

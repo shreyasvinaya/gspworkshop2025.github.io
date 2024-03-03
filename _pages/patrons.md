@@ -12,10 +12,9 @@ social: false  # includes social icons at the bottom of the page
 organizer: true
 ---
 
-{% include co_organizers.html %}
-
 #### Shell
 
+---
 #### Elsevier
 
 Science Talks is an open access journal that publishes original, peer-reviewed videos of scientific presentations, tutorials, and news and views. The journal is open to submissions from all areas of mathematical and physical sciences, engineering, medicine, biological sciences, humanities, and social sciences. Published videos are accompanied by a manuscript that includes an abstract, figures, tables, and references presented in the video. Recent publications in Science Talks can be found here: [Science Talks, All Journal Issues, ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/science talks/issues)

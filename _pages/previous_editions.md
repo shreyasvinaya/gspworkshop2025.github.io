@@ -4,7 +4,7 @@ permalink: /previous/
 title: "Previous editions"
 description: 
 nav: true
-nav_order: 5
+nav_order: 6
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

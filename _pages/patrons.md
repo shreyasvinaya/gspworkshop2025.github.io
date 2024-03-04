@@ -12,12 +12,18 @@ social: false  # includes social icons at the bottom of the page
 organizer: true
 ---
 
-#### Shell
+#### Dutch Research Council (NWO)
+
+<a href="https://www.nwo.nl/"><img id = 'nwo_logo' class="img-fluid" src="/assets/img/logos/nwologo.png" style="margin: 20px 20px 80px 20px;"></a>
+
+[The Dutch Research Council (NWO](https://www.nwo.nl/en) supports the GSP Workshop via the [Open Technology Programme project GraSPA (No. 19497)](https://www.nwo.nl/en/news/four-million-euro-six-technological-research-projects?utm_campaign=socialperformance&utm_content=ttw&utm_medium=newsletter&utm_source=tripolis&utm_term=calls).
 
 ---
 #### Elsevier
 
-Science Talks is an open access journal that publishes original, peer-reviewed videos of scientific presentations, tutorials, and news and views. The journal is open to submissions from all areas of mathematical and physical sciences, engineering, medicine, biological sciences, humanities, and social sciences. Published videos are accompanied by a manuscript that includes an abstract, figures, tables, and references presented in the video. Recent publications in Science Talks can be found here: [Science Talks, All Journal Issues, ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/science_talks/issues)
+<a href="https://www.sciencedirect.com/journal/science-talks"><img id = 'elsevier_logo' class="img-fluid" src="/assets/img/logos/elsevierlogo.png" style="margin: 20px 20px 80px 20px;"></a>
+
+Science Talks is an open access journal that publishes original, peer-reviewed videos of scientific presentations, tutorials, and news and views. The journal is open to submissions from all areas of mathematical and physical sciences, engineering, medicine, biological sciences, humanities, and social sciences. Published videos are accompanied by a manuscript that includes an abstract, figures, tables, and references presented in the video. Recent publications in Science Talks can be found here: [Science Talks, All Journal Issues, ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/science-talks/issues)
 
 There are many benefits to publishing in Science Talks:
 
@@ -36,3 +42,13 @@ All Science Talks videos are immediately and freely available to download and us
 **Videos are free to publish**
 
 There are no publication charges for authors who submit before 31st December 2024.
+
+---
+### Delft University of Technology (TU Delft)
+
+<a href="https://www.tudelft.nl/en/"><img id = 'tudelft_logo' class="img-fluid" src="/assets/img/logos/tudelft.png" style="margin: 20px 20px 80px 20px;"></a>
+
+---
+#### Shell
+
+<a href="https://www.shell.com/"><img id = 'shell_logo' class="img-fluid" src="/assets/img/logos/shell.png" style="margin: 20px 20px 80px 20px;"></a>

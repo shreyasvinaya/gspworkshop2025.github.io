@@ -21,7 +21,7 @@ organizer: true
 #### Elsevier
 <a href="https://www.sciencedirect.com/journal/science-talks"><img id = 'elsevier_logo' class="img-fluid" src="/assets/img/logos/elsevierlogo.png" style="margin: 10px 10px 10px 10px;"></a>
 
-Attendees interested in submitting their GSP work to Elsevier Science Talks can follow the guidelines below.
+Attendees interested in submitting their GSP work to Elsevier Science Talks can follow the guidelines below.
 
 Science Talks is an open access journal that publishes original, peer-reviewed videos of scientific presentations, tutorials, and news and views. The journal is open to submissions from all areas of mathematical and physical sciences, engineering, medicine, biological sciences, humanities, and social sciences. Published videos are accompanied by a manuscript that includes an abstract, figures, tables, and references presented in the video. Recent publications in Science Talks can be found here: [Science Talks, All Journal Issues, ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/science-talks/issues)
 

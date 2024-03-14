@@ -22,6 +22,7 @@ GSP 2024 is kindly supported by the [Dutch Research Council](https://www.nwo.nl/
 
 ---
 #### News
++ **[2024/02/01]** Submission deadline extended to **March 25**. Submit [here](https://cmt3.research.microsoft.com/GSP2024).
 + **[2024/02/01]** Submissions are open [here](https://cmt3.research.microsoft.com/GSP2024).
 + **[2023/11/06]** The website is now up.
 
@@ -29,9 +30,9 @@ GSP 2024 is kindly supported by the [Dutch Research Council](https://www.nwo.nl/
 ---
 #### Important Dates
 + **Submission open:** February 1, 2024
-+ **Submission deadline:** March 15, 2024
-+ **Notification of acceptance:** April 1, 2024
-+ **Early registration:** April 14, 2024
++ **Submission deadline:** ~~March 15, 2024~~ **March 25, 2024**
++ **Notification of acceptance:** ~~April 1, 2024~~ April 8, 2024
++ **Early registration:** ~~April 14, 2024~~ April 21, 2024
 + **Workshop:** June 24-26, 2024
 
 

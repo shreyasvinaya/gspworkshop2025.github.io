@@ -12,9 +12,9 @@ top_image_alt: "Delft, The Netherlands."
 
 #### Important Dates
 + **Submission open:** February 1, 2024
-+ **Submission deadline:** March 15, 2024
-+ **Notification of acceptance:** April 1, 2024
-+ **Early registration:** April 14, 2024
++ **Submission deadline:** ~~March 15, 2024~~ **March 25, 2024**
++ **Notification of acceptance:** ~~April 1, 2024~~ April 8, 2024
++ **Early registration:** ~~April 14, 2024~~ April 21, 2024
 + **Workshop:** June 24-26, 2024
 
 ---

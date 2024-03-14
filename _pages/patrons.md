@@ -48,5 +48,9 @@ There are no publication charges for authors who submit before 31st December 202
 <a href="https://www.tudelft.nl/en/"><img id = 'tudelft_logo' class="img-fluid" src="/assets/img/logos/tudelft.png" style="margin: 10px 10px 10px 10px;"></a>
 
 ---
+#### TU Delft AI Initiative
+<a href="https://www.tudelft.nl/en/ai/tu-delft-ai-initiative"><img id = 'ai_logo' class="img-fluid" src="/assets/img/logos/aiinitiativelogo.png" style="margin: 10px 10px 10px 10px;"></a>
+
+---
 #### Shell
 <a href="https://www.shell.com/"><img id = 'shell_logo' class="img-fluid" src="/assets/img/logos/shell.png" style="margin: 10px 10px 10px 10px;"></a>

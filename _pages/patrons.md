@@ -54,3 +54,9 @@ There are no publication charges for authors who submit before 31st December 202
 ---
 #### Shell
 <a href="https://www.shell.com/"><img id = 'shell_logo' class="img-fluid" src="/assets/img/logos/shell.png" style="margin: 10px 10px 10px 10px;"></a>
+
+---
+#### The Ken Kennedy Institute at Rice University
+<a href="https://kenkennedy.rice.edu/"><img id = 'rice_logo' class="img-fluid" src="/assets/img/logos/ricelogo.png" style="margin: 10px 10px 10px 10px;"></a>
+{% endif %}
+

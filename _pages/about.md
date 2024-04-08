@@ -22,7 +22,7 @@ GSP 2024 is kindly supported by the [Dutch Research Council](https://www.nwo.nl/
 
 ---
 #### News
-+ Registration is open [here](https://www.aanmelder.nl/153767). Register by **April 21** for early bird fees.
++ **[2024/04/08]** Registration is open [here](https://www.aanmelder.nl/153767). Register by **April 21** for early bird fees.
 + **[2024/02/01]** Submission deadline extended to **March 25**. Submit [here](https://cmt3.research.microsoft.com/GSP2024).
 + **[2024/02/01]** Submission deadline extended to **March 25**. Submit [here](https://cmt3.research.microsoft.com/GSP2024).
 + **[2024/02/01]** Submissions are open [here](https://cmt3.research.microsoft.com/GSP2024).
@@ -34,7 +34,7 @@ GSP 2024 is kindly supported by the [Dutch Research Council](https://www.nwo.nl/
 + **Submission open:** February 1, 2024
 + **Submission deadline:** ~~March 15, 2024~~ **March 25, 2024**
 + **Notification of acceptance:** ~~April 1, 2024~~ April 8, 2024
-+ **Early registration:** ~~April 14, 2024~~ April 21, 2024
++ **Early registration:** ~~April 8, 2024~~ April 21, 2024
 + **Workshop:** June 24-26, 2024
 
 

@@ -21,4 +21,4 @@ Registration fees:
 
 Earlybird fees are available until **April 21**, with regular fees applied from April 22. Please register as soon as possible.
 
-We are looking forward to seeing you in Delft.
+We look forward to seeing you in Delft!

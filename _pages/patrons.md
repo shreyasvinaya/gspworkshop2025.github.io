@@ -44,6 +44,12 @@ All Science Talks videos are immediately and freely available to download and us
 There are no publication charges for authors who submit before 31st December 2024.
 
 ---
+#### MathWorks
+<a href="https://www.mathworks.com/"><img id = 'mathworks_logo' class="img-fluid" src="/assets/img/logos/mathworks-logo.svg" style="margin: 10px 10px 10px 10px;"></a>
+
+MathWorks is the leading developer of mathematical computing software. MATLAB, the language of engineers and scientists, is a programming environment for algorithm development, data analysis, visualization, and numeric computation. Simulink is a block diagram environment for simulation and Model-Based Design of multidomain and embedded engineering systems. Engineers and scientists worldwide rely on these products to accelerate the pace of discovery, innovation, and development in automotive, aerospace, communications, electronics, industrial automation, and other industries. MATLAB and Simulink are fundamental teaching and research tools in the world's top universities and learning institutions. Founded in 1984, MathWorks employs more than 6,000 people in 34 offices around the world, with headquarters in Natick, Massachusetts, USA. For additional information, visit [mathworks.com](https://www.mathworks.com/)
+
+---
 #### Delft University of Technology (TU Delft)
 <a href="https://www.tudelft.nl/en/"><img id = 'tudelft_logo' class="img-fluid" src="/assets/img/logos/tudelft.png" style="margin: 10px 10px 10px 10px;"></a>
 

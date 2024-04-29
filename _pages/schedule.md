@@ -17,7 +17,7 @@ Coming soon.
 Coming soon.
 
 #### Presentation format
-Lectures are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and landscape orientation are recommended.
+Lectures are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and portrait orientation are recommended.
 
 #### Tutorial
 

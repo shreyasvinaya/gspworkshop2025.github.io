@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule/
-title: "Schedule"
+title: "Schedule & Program"
 description: 
 nav: true
 nav_order: 0
@@ -11,6 +11,15 @@ top_image_alt: "Delft University of Technology"
 ---
 
 **Access a .pdf version of the technical program and the program-at-a-glance [here](https://www.dropbox.com/scl/fi/b3tmb2nuzgrkl7zbopyqk/GSP2024-Technical-Program.pdf?rlkey=8mkihfa7gtgsfyhqvb5atly1i&st=6njszwx2&dl=0).**
+
+---
+#### Program-At-A-Glance
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp24/at-a-glance.png" title="Program at a glance" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+    </div>
+</div>
 
 ---
 #### General Information

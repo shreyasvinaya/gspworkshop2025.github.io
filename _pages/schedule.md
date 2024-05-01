@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule/
-title: "Schedule & Program"
+title: "Program"
 description: 
 nav: true
 nav_order: 0

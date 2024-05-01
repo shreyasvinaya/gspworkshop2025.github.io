@@ -10,9 +10,17 @@ top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"
 ---
 
-#### Detailed program
-Coming soon.
+**Access a .pdf version of the technical program and the program-at-a-glance [here](https://www.dropbox.com/scl/fi/b3tmb2nuzgrkl7zbopyqk/GSP2024-Technical-Program.pdf?rlkey=8mkihfa7gtgsfyhqvb5atly1i&st=6njszwx2&dl=0).**
 
+---
+#### General Information
+
+Lectures in the oral sessions are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and portrait orientation are recommended.
+
+There will be a single poster session per day. The session takes place during two different time slots (13h00 to 14h00 and 15h00 to 16h00) but the posters will be the same.
+
+
+---
 #### Plenary Talks
 
 <p id="Georgios B. Giannakis"></p>
@@ -44,6 +52,8 @@ Coming soon.
 
 ##### Plenary Wed-PM (Wednesday 14:00 - 15:00)
 [**Smita Krishnaswamy**](https://krishnaswamylab.org/), Yale University
+
+---
 #### Oral Sessions
 ##### Oral Session Mon-AM (Monday 10:30 - 12:30) - Network Topology Inference
 + Paper 1: A Novel Smoothness Prior for Hypergraph Machine Learning, Bohan Tang (ID: 58)
@@ -90,6 +100,7 @@ Coming soon.
 + Paper 4: Blind Deconvolution of Sparse Graph Signals in the Presence of Perturbations, Victor M. Tenorio (ID: 77)
 + Paper 5: Quantile-based fitting for graph signals, Kyusoon Kim (ID: 64)
 
+---
 #### Poster Sessions
 
 ##### Poster Session Mon (Monday 13:00-14h00 & 15h00-16h00) - Euler
@@ -150,7 +161,3 @@ Coming soon.
 + Paper 18: State Estimation in Water Distribution Systems using Diffusion on the Edge Space, Bulat Kerimov (ID: 82)
 + Paper 19: Neuro-GSTH: Quantitative analysis of spatiotemporal neural dynamics using geometric scattering and persistent homology, Dhananjay Bhaskar (ID: 85)
 + Paper 20: PET Image Representation and Reconstruction based on Graph Filter, Jingxin Zhang (ID: 41)
-
-
-#### Presentation format
-Lectures are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and portrait orientation are recommended.

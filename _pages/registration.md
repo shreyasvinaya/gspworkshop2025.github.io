@@ -4,7 +4,7 @@ permalink: /registration/
 title: Registration
 description: 
 nav: true
-nav_order: 1
+nav_order: 2
 
 top_image: /assets/img/gsp24/delft.jpg
 top_image_alt: "Delft, The Netherlands"

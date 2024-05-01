@@ -51,12 +51,12 @@ Coming soon.
 + Paper 3: Inferring the Topology of a Networked Dynamical Systems, Augusto Santos (ID: 88)
 + Paper 4: Sampling and Consensus for Anomalous Edge Detection, Panagiotis Traganitis (ID: 80)
 + Paper 5: Introducing Graph Learning over Polytopic Uncertain Graph, Masako Kishida (ID: 5)
-+ Paper 6: Laplacian-Constrained Cramér-Rao Bound for Networks Applications, Morad Halihal (ID: 73)
++ Paper 6: Laplacian-Constrained Cram r-Rao Bound for Networks Applications, Morad Halihal (ID: 73)
 
 ##### Oral Session Mon-PM (Monday 16:00 - 17:40): Graph filters
 + Paper 1: Median Autoregressive Graph Filters, David Tay (ID: 12)
 + Paper 2: On the Stability of Graph Spectral Filters: A Probabilistic Perspective, Ning Zhang, (ID: 79)
-+ Paper 3: Algebraic spaces of filters for signals on graphons, Juan Andrés Bazerque (ID: 60)
++ Paper 3: Algebraic spaces of filters for signals on graphons, Juan Andr s Bazerque (ID: 60)
 + Paper 4: Graph Filtering for Clustering Attributed Graphs, Meiby Ortiz-Bouza (ID: 40)
 + Paper 5: HoloNets: Spectral Convolutions do extend to Directed Graphs, Christian Koke (ID: 4)
 
@@ -85,7 +85,7 @@ Coming soon.
 
 ##### Oral Session Wed-PM (Wednesday 16:00 - 17:40) - GSP Theory and Methods 
 + Paper 1: Discrete Integral Operators for Graph Signal Processing, Naoki Saito (ID: 8)
-+ Paper 2: Möbius Total Variation for Directed Acyclic Graph, Vedran Mihal (ID: 34)
++ Paper 2: M bius Total Variation for Directed Acyclic Graph, Vedran Mihal (ID: 34)
 + Paper 3: Involution-Based Graph-Signal Processing, Gerald Matz (ID: 49)
 + Paper 4: Blind Deconvolution of Sparse Graph Signals in the Presence of Perturbations, Victor M. Tenorio (ID: 77)
 + Paper 5: Quantile-based fitting for graph signals, Kyusoon Kim (ID: 64)
@@ -130,7 +130,7 @@ Coming soon.
 + Paper 16: A Rewiring Contrastive Patch PerformerMixer Framework for Graph Representation Learning, Zhongtian Sun (ID: 75)
 
 ##### Poster Session 3 (Wednesday 13:00-14h00 & 15h00-16h00) - Erdos 
-+ Paper 1: Utilizing graph Fourier transform for automatic Alzheimer’s disease detection from EEG signals, Ramnivas Sharma (ID: 6)
++ Paper 1: Utilizing graph Fourier transform for automatic Alzheimer s disease detection from EEG signals, Ramnivas Sharma (ID: 6)
 + Paper 2: Emergence of Higher-Order Functional Brain Connectivity with Hypergraph Signal Processing, Breno C Bispo (ID: 10)
 + Paper 3: Protection Against Graph-Based False Data Injection Attacks on Power Systems, Gal Morgenstern (ID: 16)
 + Paper 4: Arbitrarily Sampled Signal Reconstruction Using Relative Difference Features, Chin-Yun Yu (ID: 17)
@@ -143,7 +143,7 @@ Coming soon.
 + Paper 11: Exploiting Variational Inequalities for Generalized Change Detection on Graphs, Juan F Florez (ID: 52)
 + Paper 12: Blind identification of overlapping communities from nodal observations, Ruben Wijnands (ID: 57)
 + Paper 13: Measuring Structure-Function Coupling Using Joint-modes of Multimodal Brain Networks, Sanjay Ghosh (ID: 62)
-+ Paper 14: Autoregressive GNN for emulating Stormwater Drainage Flows, Alexander Garzón (ID: 63)
++ Paper 14: Autoregressive GNN for emulating Stormwater Drainage Flows, Alexander Garz n (ID: 63)
 + Paper 15: Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling for Decentralized Learning over Wireless Networks, Zheng Chen (ID: 71)
 + Paper 16: Data-driven Polytopic Output Synchronization from Noisy Data, Wenjie Liu (ID: 74)
 + Paper 17: A Graph Signal Processing Framework based on Graph Learning and Graph Neural Networks for Mental Workload Classification from EEG signals, Maria a Sarkis (ID: 76)

@@ -42,10 +42,10 @@ There will be a single poster session per day. The session takes place during tw
 ##### Plenary Mon-PM (Monday 14:00 - 15:00)
 [**Francesca Parise**](https://sites.coecis.cornell.edu/parise/), Cornell University
 
-<p id="Sergio Barbarossa"></p>
+<p id="Smita Krishnaswamy"></p>
 
 ##### Plenary Tue-AM (Tuesday 9:00 - 10:00)
-[**Sergio Barbarossa**](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home), Sapienza University of Rome
+[**Smita Krishnaswamy**](https://krishnaswamylab.org/), Yale University
 
 <p id="Stefan Vlaski"></p>
 
@@ -57,10 +57,10 @@ There will be a single poster session per day. The session takes place during tw
 ##### Plenary Wed-AM (Wednesday 9:00 - 10:00)
 [**Piet Van Mieghem**](https://www.nas.ewi.tudelft.nl/people/Piet/), TU Delft
 
-<p id="Smita Krishnaswamy"></p>
+<p id="Sergio Barbarossa"></p>
 
 ##### Plenary Wed-PM (Wednesday 14:00 - 15:00)
-[**Smita Krishnaswamy**](https://krishnaswamylab.org/), Yale University
+[**Sergio Barbarossa**](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home), Sapienza University of Rome
 
 ---
 #### Oral Sessions

@@ -57,10 +57,18 @@ There will be a single poster session per day. The session takes place during tw
 ##### Plenary Wed-AM (Wednesday 9:00 - 10:00)
 [**Piet Van Mieghem**](https://www.nas.ewi.tudelft.nl/people/Piet/), TU Delft
 
+**Title**: Linear Processes on Networks
+
+**Abstract**: From a network science point of view, we will discuss linear processes on a graph, which are the easiest, but also the most elegant processes. Real, time-dependent processes necessitate us to introduce the beautiful linear state space (LSS) model (in discrete time). We will briefly talk about two applications of LSS. Thereafter, we switch to the Laplacian matrix of a graph. From the spectral decomposition of the Laplacian, we will introduce the simplex of an undirected, possibly weighted graph. The simplex geometry of a graph is, besides the topology domain and the spectral domain, the third equivalent description of a graph. Continuous-time Markov processes are described by the Chapman-Kolmogorov (linear) equations, in which the appearing infinitesimal generator is, in fact, a weighted Laplacian of the Markov graph. We will discuss Markovian epidemics on a fixed graph, show limitations of the linear theory on graphs and introduce a mean-field approximation, a powerful method from physics, that results into non-linear governing equations.
+
 <p id="Sergio Barbarossa"></p>
 
 ##### Plenary Wed-PM (Wednesday 14:00 - 15:00)
 [**Sergio Barbarossa**](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home), Sapienza University of Rome
+
+**Title**: Topological signal processing and learning over cell complexes
+
+**Abstract**: The goal of this lecture is to introduce the basic tools for processing signals defined over a topological space, focusing on simplicial and cell complexes. Nowadays, processing signals defined over graphs has become a mature technology. Graphs are just an example of topological space, incorporating only pairwise relations. In this lecture, we will motivate the need to generalize the graph-based methodologies to higher order structures, such as simplicial and cell complexes as spaces able to incorporate higher order relations in the representation space, still possessing a rich algebraic structure that facilitates the extraction of information. We will motivate the introduction of a Fourier Transform and recall the fundamentals of filtering and sampling of signals defined over such spaces. We will then show the impact of imperfect knowledge of the space on the tools used to extract information from data. Then we will present a probabilistic topological model for multivariate random variables defined over subsets of the space. Finally, we will show how to exploit the above tools in the design of topological neural networks, operating over signals defined over topological spaces of different order and we will present methods to infer the structure of the space from data.
 
 ---
 #### Oral Sessions

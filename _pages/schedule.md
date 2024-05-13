@@ -10,7 +10,7 @@ top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"
 ---
 
-**Access a .pdf version of the technical program and the program-at-a-glance [here](https://www.dropbox.com/scl/fi/b3tmb2nuzgrkl7zbopyqk/GSP2024-Technical-Program.pdf?rlkey=8mkihfa7gtgsfyhqvb5atly1i&st=6njszwx2&dl=0).**
+**Access a .pdf version of the technical program and the program-at-a-glance [here](https://www.dropbox.com/scl/fi/f2rark72ev8afqk6k0gdi/GSP2024-Technical-Program.pdf?rlkey=7seagf3hnd6sf5vuabij65vcg&dl=0).**
 
 ---
 #### Program-At-A-Glance
@@ -37,20 +37,36 @@ There will be a single poster session per day. The session takes place during tw
 ##### Plenary Mon-AM (Monday 9:00 - 10:00)
 [**Georgios B. Giannakis**](https://spincom.umn.edu/), University of Minnesota
 
+**Title**: Kernel-driven and Learnable Self-Supervision over Graphs
+
+**Abstract**: Self-supervision (SeSu) has gained popularity for “data-hungry” training of machine learning models, especially those involving large-scale graphs, where labeled samples are scarce or even unavailable. Main learning tasks in such setups are ill posed, and SeSu renders them well posed by relying on abundant unlabeled data as input, to yield low-dimensional embeddings of a reference (auxiliary) model output. In this talk, we first outline SeSu approaches, specialized reference models, and their links with (variational) auto-encoders, regularization, semi-supervised, transfer, meta, and multi-view learning; but also their challenges and opportunities when multi-layer graph topologies and multi-view data are present, when nodal features are absent, and when the ad hoc selection of a reference model yields embeddings not optimally designed for the downstream main learning task. Next, we present our novel SeSu approach which selects the reference model to output either a prescribed kernel, or, a learnable weighted superposition of kernels from a prescribed dictionary. As a result, the learned embeddings offer a novel, reduced-dimensionality estimate of the basis kernel, and thus an efficient parametric estimate of the main learning function at hand that belongs to a reproducing kernel Hilbert space. If time allows, we will also cover online variants for dynamic settings, and regret analysis founded on the so-termed neural-tangent-kernel framework to assess how effectively the learned embeddings approximate the underlying optimal kernel(s). We will wrap up with numerical tests using synthetic and real datasets to showcase the merits of kernel-driven and learnable (KeLe) SeSu relative to alternatives. The real data will also compare KeLe-SeSu with auto-encoders and graph neural networks (GNNs), and further test KeLe-Su on reference maps with masked-inputs and predicted-outputs that are popular in large language models (LLMs).
+
 <p id="Francesca Parise"></p>
 
 ##### Plenary Mon-PM (Monday 14:00 - 15:00)
 [**Francesca Parise**](https://sites.coecis.cornell.edu/parise/), Cornell University
+
+**Title**: Large-Scale Network Dynamics: Achieving Tractability via Graph Limits
+
+**Abstract**: Network dynamical systems provide a versatile framework for studying the interplay between the structure of complex networks and the dynamic behavior of its constituent entities, offering insights into diverse phenomena across disciplines such as physics, biology, sociology, and engineering. As the size of the underlying network increases however a number of new challenges arise. For example, collecting exact network data may become too costly and planning optimal network interventions may become computationally intractable.  In this talk I will show how the theory of graph limits can be used to provide new insights on graph processes evolving over large random networks. First, I will show how graph limits can be used to define tractable infinite population models of network systems while maintaining agents’ heterogeneity. Second, I will show how insights derived for such infinite population models can be applied to study large but finite networks. I will illustrate the benefit of this graph limit approach for broad classes of graph processes including strategic interactions, multi-agent learning and synchronization dynamics.
 
 <p id="Smita Krishnaswamy"></p>
 
 ##### Plenary Tue-AM (Tuesday 9:00 - 10:00)
 [**Smita Krishnaswamy**](https://krishnaswamylab.org/), Yale University
 
+**Title**: Molecular discovery and analysis using geometric scattering and deep learning 
+
+**Abstract**: Here we present frameworks that integrate graph signal processing with deep learning in order to enhance graph representation-learning as well as predictive modeling of graph dynamics. A key innovation is our development and incorporation of learnable geometric scattering as well as its novel extensions—bilipschitz scattering, directed scattering and scattering with attention, as layers into deep neural networks in order to improve expressiveness and downstream performance. We first discuss enhanced expressiveness and capability of capturing geometric properties of these methods. Then, we show applications in molecule generation, dynamics interpolation, as well as property prediction in small molecules and proteins. Finally, I will show applications where the structure captured by the graph signal processing is augmented by sequence analysis to elucidate basic RNA transcriptional biology. 
+
 <p id="Stefan Vlaski"></p>
 
 ##### Plenary Tue-PM (Tuesday 14:00 - 15:00)
 [**Stefan Vlaski**](https://stefanvlaski.github.io/), Imperial College London
+
+**Title**: Beyond Consensus-Based Methods for Decentralized Learning: Where Graph Signal Processing and Optimization Meet
+
+**Abstract**: Recent years have been marked by a proliferation of dispersed data and computational capabilities. Data is generated and processed on our mobile devices, in sensors scattered throughout “smart cities” and “smart grids”, and vehicles on the road. Central aggregation of raw data is frequently neither efficient nor feasible, due to concerns around communication constraints, privacy, and robustness to link and node failure. The purpose of decentralized optimization and learning is then to devise intelligent systems by means of decentralized processing and peer-to-peer interactions, as defined by an underlying graph topology. Classically, the objective in decentralized learning has been to match the dynamics and performance of a centralized fusion center, and minimize the impact of the network on the learning dynamics. In convex, cooperative, and homogeneous environments, this paradigm is indeed optimal and can be shown to match statistical and information theoretic lower bounds. Modern learning applications, however, differ substantially from classical settings: They are highly non-convex, underdetermined, heterogeneous, and subject to non-cooperative and adversarial behavior. We will argue that effective learning in these environments requires deviation from the traditional consensus-based learning paradigm, and a refined characterization of the inductive bias and learning dynamics induced by the underlying graph topology. We will survey recent results emerging from this point of view.
 
 <p id="Piet Van Mieghem"></p>
 
@@ -156,6 +172,7 @@ There will be a single poster session per day. The session takes place during tw
 + Paper 14: Peer-to-Peer Learning + Consensus with Non-IID Data, Srinivasa Pranav (ID: 69)
 + Paper 15: Community mining by modeling multilayer networks with Cartesian product graphs, Tiziana Cattai (ID: 65)
 + Paper 16: A Rewiring Contrastive Patch PerformerMixer Framework for Graph Representation Learning, Zhongtian Sun (ID: 75)
++ Paper 17: Blind identification of overlapping communities from nodal observations, Ruben Wijnands (ID: 57)
 
 ##### Poster Session 3 (Wednesday 13:00-14h00 & 15h00-16h00) - Erdos 
 + Paper 1: Utilizing graph Fourier transform for automatic Alzheimer s disease detection from EEG signals, Ramnivas Sharma (ID: 6)
@@ -169,12 +186,11 @@ There will be a single poster session per day. The session takes place during tw
 + Paper 9: Attack Graph Model for Cyber-Physical Power Systems Using Hybrid Deep Learning, Alfan Presekal (ID: 43)
 + Paper 10: Interpretable Diagnosis of Schizophrenia Using Graph-Based Brain Network Information Bottleneck, Tianzheng Hu (ID: 46)
 + Paper 11: Exploiting Variational Inequalities for Generalized Change Detection on Graphs, Juan F Florez (ID: 52)
-+ Paper 12: Blind identification of overlapping communities from nodal observations, Ruben Wijnands (ID: 57)
-+ Paper 13: Measuring Structure-Function Coupling Using Joint-modes of Multimodal Brain Networks, Sanjay Ghosh (ID: 62)
-+ Paper 14: Autoregressive GNN for emulating Stormwater Drainage Flows, Alexander Garz n (ID: 63)
-+ Paper 15: Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling for Decentralized Learning over Wireless Networks, Zheng Chen (ID: 71)
-+ Paper 16: Data-driven Polytopic Output Synchronization from Noisy Data, Wenjie Liu (ID: 74)
-+ Paper 17: A Graph Signal Processing Framework based on Graph Learning and Graph Neural Networks for Mental Workload Classification from EEG signals, Maria a Sarkis (ID: 76)
-+ Paper 18: State Estimation in Water Distribution Systems using Diffusion on the Edge Space, Bulat Kerimov (ID: 82)
-+ Paper 19: Neuro-GSTH: Quantitative analysis of spatiotemporal neural dynamics using geometric scattering and persistent homology, Dhananjay Bhaskar (ID: 85)
-+ Paper 20: PET Image Representation and Reconstruction based on Graph Filter, Jingxin Zhang (ID: 41)
++ Paper 12: Measuring Structure-Function Coupling Using Joint-modes of Multimodal Brain Networks, Sanjay Ghosh (ID: 62)
++ Paper 13: Autoregressive GNN for emulating Stormwater Drainage Flows, Alexander Garz n (ID: 63)
++ Paper 14: Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling for Decentralized Learning over Wireless Networks, Zheng Chen (ID: 71)
++ Paper 15: Data-driven Polytopic Output Synchronization from Noisy Data, Wenjie Liu (ID: 74)
++ Paper 16: A Graph Signal Processing Framework based on Graph Learning and Graph Neural Networks for Mental Workload Classification from EEG signals, Maria a Sarkis (ID: 76)
++ Paper 17: State Estimation in Water Distribution Systems using Diffusion on the Edge Space, Bulat Kerimov (ID: 82)
++ Paper 18: Neuro-GSTH: Quantitative analysis of spatiotemporal neural dynamics using geometric scattering and persistent homology, Dhananjay Bhaskar (ID: 85)
++ Paper 19: PET Image Representation and Reconstruction based on Graph Filter, Jingxin Zhang (ID: 41)

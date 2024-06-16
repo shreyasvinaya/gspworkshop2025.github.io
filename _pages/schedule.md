@@ -34,7 +34,7 @@ There will be a single poster session per day. The session takes place during tw
 
 <p id="Georgios B. Giannakis"></p>
 
-##### Plenary Mon-AM (Monday 9:00 - 10:00)
+##### Plenary Monday 9:00 - 10:00
 [**Georgios B. Giannakis**](https://spincom.umn.edu/), University of Minnesota
 
 **Title**: Kernel-driven and Learnable Self-Supervision over Graphs
@@ -43,7 +43,7 @@ There will be a single poster session per day. The session takes place during tw
 
 <p id="Francesca Parise"></p>
 
-##### Plenary Mon-PM (Monday 14:00 - 15:00)
+##### Plenary Monday 14:00 - 15:00
 [**Francesca Parise**](https://sites.coecis.cornell.edu/parise/), Cornell University
 
 **Title**: Large-Scale Network Dynamics: Achieving Tractability via Graph Limits
@@ -52,7 +52,7 @@ There will be a single poster session per day. The session takes place during tw
 
 <p id="Smita Krishnaswamy"></p>
 
-##### Plenary Tue-AM (Tuesday 9:00 - 10:00)
+##### Plenary Tuesday 9:00 - 10:00
 [**Smita Krishnaswamy**](https://krishnaswamylab.org/), Yale University
 
 **Title**: Molecular discovery and analysis using geometric scattering and deep learning 
@@ -61,7 +61,7 @@ There will be a single poster session per day. The session takes place during tw
 
 <p id="Stefan Vlaski"></p>
 
-##### Plenary Tue-PM (Tuesday 14:00 - 15:00)
+##### Plenary Tuesday 14:00 - 15:00
 [**Stefan Vlaski**](https://stefanvlaski.github.io/), Imperial College London
 
 **Title**: Beyond Consensus-Based Methods for Decentralized Learning: Where Graph Signal Processing and Optimization Meet
@@ -70,7 +70,7 @@ There will be a single poster session per day. The session takes place during tw
 
 <p id="Piet Van Mieghem"></p>
 
-##### Plenary Wed-AM (Wednesday 9:00 - 10:00)
+##### Plenary Wednesday 9:00 - 10:00
 [**Piet Van Mieghem**](https://www.nas.ewi.tudelft.nl/people/Piet/), TU Delft
 
 **Title**: Linear Processes on Networks
@@ -79,7 +79,7 @@ There will be a single poster session per day. The session takes place during tw
 
 <p id="Sergio Barbarossa"></p>
 
-##### Plenary Wed-PM (Wednesday 14:00 - 15:00)
+##### Plenary Wednesday 14:00 - 15:00
 [**Sergio Barbarossa**](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home), Sapienza University of Rome
 
 **Title**: Topological signal processing and learning over cell complexes
@@ -88,109 +88,196 @@ There will be a single poster session per day. The session takes place during tw
 
 ---
 #### Oral Sessions
-##### Oral Session Mon-AM (Monday 10:30 - 12:30) - Network Topology Inference
-+ Paper 1: A Novel Smoothness Prior for Hypergraph Machine Learning, Bohan Tang (ID: 58)
-+ Paper 2: Mitigating subpopulation bias for fair network topology inference, Madeline Navarro (ID: 33)
-+ Paper 3: Inferring the Topology of a Networked Dynamical Systems, Augusto Santos (ID: 88)
-+ Paper 4: Sampling and Consensus for Anomalous Edge Detection, Panagiotis Traganitis (ID: 80)
-+ Paper 5: Introducing Graph Learning over Polytopic Uncertain Graph, Masako Kishida (ID: 5)
-+ Paper 6: Laplacian-Constrained Cram r-Rao Bound for Networks Applications, Morad Halihal (ID: 73)
 
-##### Oral Session Mon-PM (Monday 16:00 - 17:40): Graph filters
-+ Paper 1: Median Autoregressive Graph Filters, David Tay (ID: 12)
-+ Paper 2: On the Stability of Graph Spectral Filters: A Probabilistic Perspective, Ning Zhang, (ID: 79)
-+ Paper 3: Algebraic spaces of filters for signals on graphons, Juan Andr s Bazerque (ID: 60)
-+ Paper 4: Graph Filtering for Clustering Attributed Graphs, Meiby Ortiz-Bouza (ID: 40)
-+ Paper 5: HoloNets: Spectral Convolutions do extend to Directed Graphs, Christian Koke (ID: 4)
+#### Oral Session Mon-AM (Monday 10:30 - 12:30) - Network Topology Inference
++ A Novel Smoothness Prior for Hypergraph Machine Learning.
+Bohan Tang (University of Oxford), Siheng Chen (Shanghai Jiao Tong University, Shanghai AI Laboratory), Xiaowen Dong (University of Oxford).
++ Mitigating subpopulation bias for fair network topology inference.
+Madeline Navarro (Rice University), Samuel Rey (Rey Juan Carlos University), Andrei Buciulea Vlas (Universidad Rey Juan Carlos), Antonio G. Marques (Rey Juan Carlos University), Santiago Segarra (Rice University).
++ Inferring the Topology of a Networked Dynamical Systems.
+Augusto A Santos (Instituto de Telecomunica  es), Jos  M. F. Moura (Carnegie Mellon University).
++ Sampling and Consensus for Anomalous Edge Detection.
+Abdullah Karaaslanli (Michigan State University), Panagiotis Traganitis (Michigan State University), Selin Aviyente (Michigan State University).
++Introducing Graph Learning over Polytopic Uncertain Graph.
+Masako Kishida (National Institute of Informatics), Shunsuke Ono (Tokyo Institute of Technology).
++Laplacian-Constrained Cram r-Rao Bound for Networks Applications.
+Morad Halihal (Ben-Gurion University of the Negev), Tirza S Routtenberg (Ben Gurion University of the Negev).
 
-##### Oral Session Tue-AM (Tuesday 10:30 - 12:30) - Signal processing on higher-order networks
-+ Paper 1: Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal, Vicent P. Grande (ID: 32)
-+ Paper 2: Simplicial Vector Autoregressive Models, Rohan Money (ID: 28).
-+ Paper 3: Learning Graphs and Simplicial Complexes from Data, Andrei Buciulea (ID: 22)
-+ Paper 4: Topological Dictionary Learning, Paolo Di Lorenzo (ID: 24)
-+ Paper 5: Hyperedge Representations with Deep Hypergraph Wavelets: Applications to Spatial Transcriptomics, Xingzhi Sun, (ID: 81)
-+ Paper 6: Presentation by Mathworks
+#### Oral Session Mon-PM (Monday 16:00 - 17:40) - Graph filters
++ Involution-Based Graph-Signal Processing.
+Gerald Matz (Technische Universit t Wien), Dimitrios Kalodikis (TU Wien).
++ On the Stability of Graph Spectral Filters: A Probabilistic Perspective.
+Ning Zhang (University of Oxford), Henry Kenlay (University of Oxford), Mihai Cucuringu (University of Oxford and The Alan Turing Institute), Xiaowen Dong (University of Oxford).
++ Algebraic spaces of filters for signals on graphons.
+Alejandro Parada-Mayorga (University of Pennsylvania), Leopoldo Agorio (University of Pittsburgh), Alejandro Ribeiro (University of Pennsylvania), Juan Andres Bazerque (Univerity of Pittsburgh).
++ Graph Filtering for Clustering Attributed Graphs.
+Meiby Ortiz-Bouza (Michigan State University), Selin Aviyente (Michigan State University).
++ HoloNets: Spectral Convolutions do extend to Directed Graphs.
+Christian Koke (Technical University Munich), Daniel Cremers (TU Munich).
 
+#### Oral Session Tue-AM (Tuesday 10:30 - 12:30) - Signal processing on higher-order networks
++ Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal.
+Vincent P. Grande (RWTH Aachen University), Michael Schaub (RWTH Aachen University).
++ Simplicial Vector Autoregressive Models.
+Joshin P. Krishnan (Simula Metropolitan Center for Digital Engineering), Rohan Thekkemarickal Money (Simula), Baltasar   Beferull-Lozano (Simula Metropolitan Center for Digital Engineering), Elvin Isufi (Tu Delft).
++ Learning Graphs and Simplicial Complexes from Data.
+Andrei Buciulea Vlas (Rey Juan Carlos University), Elvin Isufi (Tu Delft), Geert Leus (TU Delft), Antonio G. Marques (Rey Juan Carlos University).
++ Topological Dictionary Learning.
+Claudio Battiloro (Sapienza University of Rome), Paolo Di Lorenzo (Sapienza University of Rome), Alejandro Ribeiro (University of Pennsylvania).
++ Hyperedge Representations with Deep Hypergraph Wavelets: Applications to Spatial Transcriptomics.
+Xingzhi Sun (Yale University), Charles Xu (Yale University), Benjamin Hollander-Bodie (Yale University), Laney Goldman (Harvey Mudd College), Michael Perlmutter (University of California, Los Angeles), Marcello DiStasio (Yale University), Smita Krishnaswamy (Yale University).
++ Graph Neural Networks for predicting Chemical Toxicity,
+Akhil Gopinath (MathWorks).
+
+#### Oral Session Tue-PM (Tuesday 16:00 - 17:20) - Graph learning
++ Graph Topology Learning with Functional Priors.
+Chenyue Zhang (The Chinese University of Hong Kong), Hoi-To Wai (Chinese University of Hong Kong), Shangyuan LIU (The Chinese University of Hong Kong).
++ Enhanced Graph-Learning Schemes Driven by Similar Distributions of Motifs.
+Samuel Rey (Rey Juan Carlos University), T. Mitchell Roddenberry (Rice University), Santiago Segarra (Rice University), Antonio G. Marques (Rey Juan Carlos University).
++ Heterogeneous Graph Structure Learning: A Statistical Perspective.
+Keyue Jiang (University College London), Bohan Tang (University of Oxford), Laura Toni (UCL), Xiaowen Dong (University of Oxford).
++ Graph Structure Learning with Interpretable Bayesian Neural Networks.
+Max Wasserman (University of Rochester), Gonzalo Matoes (University of Rochester).
  
-##### Oral Session Tue-PM (Tuesday 16:00 - 17:20) - Graph learning
-+ Paper 1: Graph Topology Learning with Functional Priors, Hoi-To Wai (ID: 45)
-+ Paper 2: Enhanced Graph-Learning Schemes Driven by Similar Distributions of Motifs, Samuel Rey (ID: 55)
-+ Paper 3: Heterogeneous Graph Structure Learning: A Statistical Perspective, Keyue Jiang (ID: 38)
-+ Paper 4: Graph Structure Learning with Interpretable Bayesian Neural Networks, Max Wasserman (ID: 21)
+#### Oral Session Wed-AM (Wednesday 10:30 - 12:30) - Geometric deep learning
++ Online Time Covariance Neural Networks.
+Andrea Cavallo (Delft University of Technology), Mohammad Sabbaqi (Delft University of Technology), Elvin Isufi (Tu Delft).
++ From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module.
+Claudio Battiloro (Sapienza University of Rome), Indro Spinelli (Sapienza University of Rome), Lev Telyatnikov (Sapienza University), Michael Bronstein (Oxford University), Simone Scardapane (Sapienza University), Paolo Di Lorenzo (Sapienza University of Rome).
++ Graph Convolutional Neural Networks in the Companion Model.
+John Shi (Carnegie Mellon University), Shreyas Chaudhari (Carnegie Mellon University), Jos  M. F. Moura (Carnegie Mellon University).
++ Representing Edge Flows on Graphs via Sparse Cell Complexes.
+Josef Hoppe (RWTH Aachen University), Michael Schaub (RWTH Aachen University).
++ Multi-Scale Hydraulic Graph Neural Networks.
+Roberto Bentivoglio (TU Delft), Elvin Isufi (Tu Delft), Sebastiaan Nicolas Jonkman (TU Delft), Riccardo Taormina (TU Delft).
++ Simplicial Scattering Networks.
+Hiren Madhu (Indian Institute of Science, Bengaluru), Sravanthi Gurugubelli (Indian Institute of Science), Sundeep Prabhakar Chepuri (Indian Institute of Science).
 
-##### Oral Session Wed-AM (Wednesday 10:30 - 12:30) - Geometric deep learning
-+ Paper 1: Online Time Covariance Neural Networks, Andrea Caballo (ID: 50)
-+ Paper 2: From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, Claudio Battiloro (ID: 23)
-+ Paper 3: Graph Convolutional Neural Networks in the Companion Model, Shreyas Chaudhari (ID: 67)
-+ Paper 4: Representing Edge Flows on Graphs via Sparse Cell Complexes, Josef Hoppe (ID: 3)
-+ Paper 5: Multi-Scale Hydraulic Graph Neural Networks, Roberto Bentivoglio, (ID: 59)
-+ Paper 6: Simplicial Scattering Networks, Sundeep Chepuri (ID: 48)
+#### Oral Session Wed-PM (Wednesday 16:00 - 17:40) - GSP Theory and Methods 
++ Quantile-based fitting for graph signals.
+Kyusoon Kim (Seoul National University).
++ M bius Total Variation for Directed Acyclic Graph.
+Vedran Mihal (ETH Zurich), Markus P schel (ETH Zurich).
++ Median Autoregressive Graph Filters.
+David Tay (Deakin University).
++ Blind Deconvolution of Sparse Graph Signals in the Presence of Perturbations.
+Victor M. Tenorio (Rey Juan Carlos University), Samuel Rey (Rey Juan Carlos University), Antonio G. Marques (Rey Juan Carlos University).
++ Discrete Integral Operators for Graph Signal Processing.
+Naoki Saito (University of California, Davis), Eugene Shvarts (University of California, Davis).
 
-##### Oral Session Wed-PM (Wednesday 16:00 - 17:40) - GSP Theory and Methods 
-+ Paper 1: Discrete Integral Operators for Graph Signal Processing, Naoki Saito (ID: 8)
-+ Paper 2: M bius Total Variation for Directed Acyclic Graph, Vedran Mihal (ID: 34)
-+ Paper 3: Involution-Based Graph-Signal Processing, Gerald Matz (ID: 49)
-+ Paper 4: Blind Deconvolution of Sparse Graph Signals in the Presence of Perturbations, Victor M. Tenorio (ID: 77)
-+ Paper 5: Quantile-based fitting for graph signals, Kyusoon Kim (ID: 64)
+
 
 ---
 #### Poster Sessions
 
-##### Poster Session Mon (Monday 13:00-14h00 & 15h00-16h00) - Euler
-+ Paper 1: Decentralized and Lifelong-Adaptive Multi-Agent Collaborative Learning, Shuo Tang (ID: 61)
-+ Paper 2: Online Graph Learning Via Proximal Newton Method from Streaming Data, Carrson Fung (ID: 70)
-+ Paper 3: Online Graph Filtering Over Expanding Graphs, Bishwadeep Das (ID: 53)
-+ Paper 4: Hodge-Aware Matched Subspace Detectors, Chengen Liu (D: 15)
-+ Paper 5: Windowed Hypergraph Fourier Transform and Vertex-frequency Representation, Alcebiades Dal Col (ID: 35)
-+ Paper 6: Graph Signal Processing: The 2D Companion Model, John Shi (ID: 66)
-+ Paper 7: Robust Graph Learning for Classification, Jingxin Zhang (ID: 47)
-+ Paper 8: Sparse Recovery of Diffused Graph Signals, Gal Morgenstern (ID: 14)
-+ Paper 9: Learning Stochastic Graph Neural Networks with Constrained Variance, Elvin Isufi (ID: 27)
-+ Paper 10: On the Impact of Sample Size in Reconstructing Signals with Graph Laplacian Regularisation, Baskaran Sripathmanathan (ID: 86)
-+ Paper 11: Hypergraph Transformer for Semi-Supervised Classification, Bohan Tang (ID: 68)
-+ Paper 12: Convolutional GNN to process signals defined over DAGs, Samuel Rey (ID: 87)
-+ Paper 13: Graph Neural Networks with Adaptive Structure, Ziping Zhao (ID: 26)
-+ Paper 14: Efficient Task Planning with Taxonomy Graph States and Large Language Models, Zhaoting Li (ID: 51)
-+ Paper 15: Sampling sparse graph signals, Stefan Kunis (ID: 7)
-+ Paper 16: Learned Finite-Time Consensus for Distributed Optimization, Aaron Fainman (ID: 78)
-+ Paper 17: Framelet Message Passing, Yuguang Wang (ID: 29)
+#### Poster Session Mon (Monday 13:00-14h00 & 15h00-16h00) - Euler
++ Decentralized and Lifelong-Adaptive Multi-Agent Collaborative Learning.
+Shuo Tang (Stanford University), Rui Ye (Shanghai Jiao Tong University), Chenxin Xu (Shanghai Jiao Tong University), Xiaowen Dong (University of Oxford), Siheng Chen (Shanghai Jiao Tong University, Shanghai AI Laboratory), Yan-Feng Wang (Cooperative medianet innovation center of Shanghai Jiao Tong University).
++ Online Graph Learning Via Proximal Newton Method from Streaming Data.
+Zu-Yu Wu (National Yang Ming Chiao Tung University), Carrson C. Fung (Carnegie Mellon University), Jun-Yi Chang (National Yang Ming Chiao Tung University), Hsin Chuang (National Yang Ming Chiao Tung University), Yi-Chen Lin (National Yang Ming Chiao Tung University).
++ Online Graph Filtering Over Expanding Graphs.
+Bishwadeep Das (TU Delft), Elvin Isufi (Tu Delft)
++ Hodge-Aware Matched Subspace Detectors.
+Chengen Liu (Tu Delft), Elvin Isufi (Tu Delft).
++ Windowed Hypergraph Fourier Transform and Vertex-frequency Representation.
+Alcebiades Dal Col (Federal University of Espirito Santo), Fabiano Petronetto (Federal University of Espirito Santo), Juliano B. Lima (Federal University of Pernambuco), Jos  R de Oliveira Neto (Universidade Federal de Pernambuco).
++ Graph Signal Processing: The 2D Companion Model.
+John Shi (University of Michigan), Jos  M. F. Moura (Carnegie Mellon University).
++ Robust Graph Learning for Classification.
+Jingxin Zhang (Swinburne University of Technology), Subbareddy BATREDDY (IIT HYDERABAD), Aditya Siripuram (IIT Hyderabad).
++ Sparse Recovery of Diffused Graph Signals.
+Gal Morgenstern (Ben-Gurion University of the Negev), Tirza S. Routtenberg (Ben-Gurion University of the Negev).
++ Learning Stochastic Graph Neural Networks with Constrained Variance.
+Zhan Gao (University of Cambridge), Elvin Isufi (Tu Delft).
++ On the Impact of Sample Size in Reconstructing Signals with Graph Laplacian Regularisation.
+Baskaran Sripathmanathan (University of Oxford), Xiaowen Dong (University of Oxford), Michael Bronstein (University of Oxford).
++ Hypergraph Transformer for Semi-Supervised Classification.
+Zexi Liu (Shanghai Jiao Tong University), Bohan Tang (University of Oxford), Ziyuan Ye (The Hong Kong Polytechnic University), Xiaowen Dong (University of Oxford), Yanfeng Wang (Shanghai Jiao Tong University), Siheng Chen (Shanghai Jiao Tong University, Shanghai AI Laboratory).
++ Convolutional GNN to process signals defined over DAGs.
+Samuel Rey (Rey Juan Carlos University), Hamed Ajorlou (University of Rochester), Gonzalo Mateos (University of Rochester).
++ Graph Neural Networks with Adaptive Structure.
+Zepeng Zhang (EPFL), Songtao Lu (IBM Thomas J. Watson Research Center), Zengfeng Huang (Fudan University), Ziping Zhao (ShanghaiTech University).
++ Efficient Task Planning with Taxonomy Graph States and Large Language Models.
+Rodrigo P rez Dattari (TU Delft), Zhaoting Li (TU Delft), Robert Babuska (TU Delft), Jens Kober (TU Delft), Cosimo Della Santina (TU Delft).
++ Sampling sparse graph signals.
+Stefan Kunis (University of Osnabrueck).
++ Learned Finite-Time Consensus for Distributed Optimization.
+Aaron Fainman (Imperial College London), Stefan Vlaski (Imperial College London).
 
-##### Poster Session Tue (Tuesday 13:00-14h00 & 15h00-16h00) - Laplace
-+ Paper 1: ResolvNet: A Graph Convolutional Network with multi-scale Consistency, Christian Koke, (ID: 37)
-+ Paper 2: Multiscale Graph Signal Clustering, Reina Kaneko (ID: 18)
-+ Paper 3: On Stability of GCNN Under Graph Perturbations, Jun Zhang (ID: 72)
-+ Paper 4: Kernel graph filtering -- a new method for dynamic sinogram denoising, Jingxin Zhang (ID: 42)
-+ Paper 5: Data-Aware Dynamic Network Decomposition, Bishwadeep Das (ID: 56)
-+ Paper 6: Hodge-Compositional Edge Gaussian Processes, Maosheng Yang (ID: 13)
-+ Paper 7: Estimators for Connection-Laplacian-Based Linear Algebra, Hugo Jaquard (ID: 36)
-+ Paper 8: Recovering Missing Node Features with Local Structure-based Embeddings, Victor M. Tenorio (ID: 19)
-+ Paper 9: Seeking universal approximation for continuous counterparts of GNNs on large random graphs, Matthieu Cordonnier (ID: 44)
-+ Paper 10: Benchmarking Graph Neural Networks with the Quadratic Assignment Problem, Adrien Lagesse (ID: 54)
-+ Paper 11: Inferring Time-Varying Signal over Uncertain Graphs, Mohammad Sabbaqi (ID: 84)
-+ Paper 12: Optimal Quasi-clique: Hardness, Equivalence with Densest-k-Subgraph, and Quasi-partitioned Community Mining, Aritra Konar (ID: 9)
-+ Paper 13: Learning Causal Influences from Social Interactions, Mert Kayaalp (ID: 11)
-+ Paper 14: Peer-to-Peer Learning + Consensus with Non-IID Data, Srinivasa Pranav (ID: 69)
-+ Paper 15: Community mining by modeling multilayer networks with Cartesian product graphs, Tiziana Cattai (ID: 65)
-+ Paper 16: A Rewiring Contrastive Patch PerformerMixer Framework for Graph Representation Learning, Zhongtian Sun (ID: 75)
-+ Paper 17: Blind identification of overlapping communities from nodal observations, Ruben Wijnands (ID: 57)
+#### Poster Session Tue (Tuesday 13:00-14h00 & 15h00-16h00) - Laplace
++ ResolvNet: A Graph Convolutional Network with multi-scale Consistency.
+Christian Koke (TU Munich), Abhishek Saroha (TU Munich), Yuesong Shen (TU Munich), Marvin Eisenberger (TU Munich), Daniel Cremers (TU Munich).
++ Multiscale Graph Signal Clustering.
+Reina Kaneko (Tohoku University), Kenta Yanagiya (Osaka University), Junya Hara (Osaka University), Hiroshi Higashi (Osaka University), Yuichi Tanaka (Osaka University).
++ On Stability of GCNN Under Graph Perturbations.
+Jun Zhang (ShanghaiTech University), Ziping Zhao (ShanghaiTech University).
++ Kernel graph filtering -- a new method for dynamic sinogram denoising.
+Jingxin Zhang (Swinburne University of Technology), Shiyao Guo (GuiZhou University of Finance and Economics).
++ Data-Aware Dynamic Network Decomposition.
+Bishwadeep Das (TU Delft), Andrei Buciulea Vlas (Rey Juan Carlos University), Antonio G. Marques (Rey Juan Carlos University), Elvin Isufi (Tu Delft).
++ Hodge-Compositional Edge Gaussian Processes.
+Maosheng Yang (TU Delft), Viacheslav Borovitskiy (ETH Z rich), Elvin Isufi (Tu Delft).
++ Estimators for Connection-Laplacian-Based Linear Algebra.
+H go Jaquard (GIPSA-lab), Nicolas Tremblay (CNRS), Simon Barthelm  (CNRS), Pierre-Olivier Amblard (CNRS).
++ Recovering Missing Node Features with Local Structure-based Embeddings.
+Victor M. Tenorio (Rey Juan Carlos University), Madeline Navarro (Rice University), Santiago Segarra (Rice University) Antonio G. Marques (Rey Juan Carlos University).
++ Seeking universal approximation for continuous counterparts of GNNs on large random graphs.
+Matthieu Cordonnier (GIPSA-lab), Nicolas Tremblay (CNRS, GIPSA-lab), Nicolas Keriven (CNRS, GIPSA-lab), Samuel Vaiter (CNRS, Lab. J.A Dieudonn ).
++ Benchmarking Graph Neural Networks with the Quadratic Assignment Problem.
+Adrien Lagesse (INRIA, ENS Paris), Marc Lelarge (INRIA-ENS).
++ Inferring Time-Varying Signal over Uncertain Graphs.
+Mohammad Sabbaqi (TU Delft).
++ Optimal Quasi-clique: Hardness Equivalence with Densest-k-Subgraph, and Quasi-partitioned Community Mining. 
+Aritra Konar (KU Leuven), Nicholas D. Sidiropoulos (University of Virginia).
++ Learning Causal Influences from Social Interactions.
+Mert Kayaalp (EPFL), Ali H. Sayed (EPFL).
++ Peer-to-Peer Learning + Consensus with Non-IID Data.
+Srinivasa Pranav (Carnegie Mellon University), Jos  M. F. Moura (Carnegie Mellon University
++ Community mining by modeling multilayer networks with Cartesian product graphs.
+Tiziana Cattai (Sapienza University of Rome), Stefania Colonnese (Sapienza University of Rome, Italy).
++ A Rewiring Contrastive Patch PerformerMixer Framework for Graph Representation Learning.
+Zhongtian Sun (Durham University), Anoushka Harit (Durham University), Alexandra Cristea (Durham University), Jingyun Wang (Durham university), Pietro Li  (University of Cambridge), Jongmin Yu (University of Cambridge).
++ Blind identification of overlapping communities from nodal observations.
+Ruben Wijnands (TU Delft), Geert Leus (TU Delft), Borbala Hunyadi (TUDelft).
++ GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation.
+Rui Kumagai (Osaka University), Hayate KOJIMA (Tokyo University of Agriculture and Technology), Hiroshi Higashi (Osaka University), Yuichi Tanaka (Osaka University).
 
-##### Poster Session 3 (Wednesday 13:00-14h00 & 15h00-16h00) - Erdos 
-+ Paper 1: Utilizing graph Fourier transform for automatic Alzheimer s disease detection from EEG signals, Ramnivas Sharma (ID: 6)
-+ Paper 2: Emergence of Higher-Order Functional Brain Connectivity with Hypergraph Signal Processing, Breno C Bispo (ID: 10)
-+ Paper 3: Protection Against Graph-Based False Data Injection Attacks on Power Systems, Gal Morgenstern (ID: 16)
-+ Paper 4: Arbitrarily Sampled Signal Reconstruction Using Relative Difference Features, Chin-Yun Yu (ID: 17)
-+ Paper 5: Incorporating the spiral of silence into opinion dynamics, Shir Mamia (ID: 20)
-+ Paper 6: scPrisma infers, filters and enhances topological signals in single-cell data using spectral template matching, Jonathan Karin (ID: 25)
-+ Paper 7: Graph Neural Network-Based Node Deployment for Throughput Enhancement, Yifei Yang (ID: 30)
-+ Paper 8: GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation, Rui Kumagai (ID: 39)
-+ Paper 9: Attack Graph Model for Cyber-Physical Power Systems Using Hybrid Deep Learning, Alfan Presekal (ID: 43)
-+ Paper 10: Interpretable Diagnosis of Schizophrenia Using Graph-Based Brain Network Information Bottleneck, Tianzheng Hu (ID: 46)
-+ Paper 11: Exploiting Variational Inequalities for Generalized Change Detection on Graphs, Juan F Florez (ID: 52)
-+ Paper 12: Measuring Structure-Function Coupling Using Joint-modes of Multimodal Brain Networks, Sanjay Ghosh (ID: 62)
-+ Paper 13: Autoregressive GNN for emulating Stormwater Drainage Flows, Alexander Garz n (ID: 63)
-+ Paper 14: Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling for Decentralized Learning over Wireless Networks, Zheng Chen (ID: 71)
-+ Paper 15: Data-driven Polytopic Output Synchronization from Noisy Data, Wenjie Liu (ID: 74)
-+ Paper 16: A Graph Signal Processing Framework based on Graph Learning and Graph Neural Networks for Mental Workload Classification from EEG signals, Maria a Sarkis (ID: 76)
-+ Paper 17: State Estimation in Water Distribution Systems using Diffusion on the Edge Space, Bulat Kerimov (ID: 82)
-+ Paper 18: Neuro-GSTH: Quantitative analysis of spatiotemporal neural dynamics using geometric scattering and persistent homology, Dhananjay Bhaskar (ID: 85)
-+ Paper 19: PET Image Representation and Reconstruction based on Graph Filter, Jingxin Zhang (ID: 41)
+#### Poster Session 3 (Wednesday 13:00-14h00 & 15h00-16h00) - Erdos 
++ Utilizing graph Fourier transform for automatic Alzheimer s disease detection from EEG signals.
+Ramnivas Sharma (MNIT Jaipur), Hemant Kumar Meena (MNIT Jaipur).
++ Emergence of Higher-Order Functional Brain Connectivity with Hypergraph Signal Processing.
+Breno C. Bispo (University of Amsterdam), Fernando Santos (University of Amsterdam), Jos  R de Oliveira Neto (Universidade Federal de Pernambuco), Juliano B Lima (Federal University of Pernambuco).
++ Protection Against Graph-Based False Data Injection Attacks on Power Systems.
+Gal Morgenstern (Ben-Gurion University of the Negev), Tirza S Routtenberg (Ben Gurion University of the Negev), Gil Zussman (Columbia University), James Anderson (Columbia University), Jip Kim (Korea Institute of Energy Technology).
++ Arbitrarily Sampled Signal Reconstruction Using Relative Difference Features.
+Chin-Yun Yu (Queen Mary University of London), Johan Pauwels (Queen Mary University of London), George Fazekas (QMUL).
++ Incorporating the spiral of silence into opinion dynamics.
+Shir Mamia (Bar Ilan University).
++ scPrisma infers, filters and enhances topological signals in single-cell data using spectral template matching.
+Jonathan Karin (The Hebrew University), Yonathan Bornfeld (The Hebrew University), Mor Nitzan (The Hebrew University).
++ Graph Neural Network-Based Node Deployment for Throughput Enhancement.
+Yifei Yang (Wuhan University), Dongmian Zou (Duke Kunshan University), Xiaofan He (Wuhan University).
++ Attack Graph Model for Cyber-Physical Power Systems Using Hybrid Deep Learning.
+Alfan Presekal (TU Delft).
++ Interpretable Diagnosis of Schizophrenia Using Graph-Based Brain Network Information Bottleneck.
+Tianzheng Hu (Vrije University), Shujian Yu (VU Amsterdam).
++ Exploiting Variational Inequalities for Generalized Change Detection on Graphs.
+Juan F. Florez (University of Delaware).
++ Measuring Structure-Function Coupling Using Joint-modes of Multimodal Brain Networks.
+Sanjay Ghosh (Indian Institute of Technology Kharagpur), Ashish Raj (UCSF), Srikantan Nagarajan (UCSF).
++ Autoregressive GNN for emulating Stormwater Drainage Flows.
+Alexander Garz n (TU Delft), Zoran Kapelan (TU Delft), Jeroen Langeveld (TU Delft / Partners4UrbanWater), Riccardo Taormina (TU Delft).
++ Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling for Decentralized Learning over Wireless Networks.
+Daniel P rez Herrera (Link ping University), Zheng Chen (Link ping University), Erik G. Larsson (Nil).
++ Data-driven Polytopic Output Synchronization from Noisy Data.
+Wenjie Liu (Beijing Institute of Technology), Yifei Li (Beijing Institute of Technology), Gang Wang (Beijing Institute of Technology).
++ A Graph Signal Processing Framework based on Graph Learning and Graph Neural Networks for Mental Workload Classification from EEG signals.
+Maria a Sarkis (LS2N), Mira Rizkallah (Ecole Centrale Nantes), Sa d Moussaoui (LS2N - SIMS).
++ State Estimation in Water Distribution Systems using Diffusion on the Edge Space.
+Bulat Kerimov (NTNU), Maosheng Yang (TU Delft), Riccardo Taormina (TU Delft), Franz Tscheikner-Gratl (NTNU).
++ Neuro-GSTH: Quantitative analysis of spatiotemporal neural dynamics using geometric scattering and persistent homology.
+Dhananjay Bhaskar (Yale University), Jessica Moore (Duke University), Yanlei Zhang (Mila), Rahul Singh (Yale University), Valentina Greco (Yale University), Joy Hirsch (Yale University), Smita Krishnaswamy (Yale University).
++ PET Image Representation and Reconstruction based on Graph Filter.
+Jingxin Zhang (Swinburne University of Technology), Shiyao Guo (GuiZhou University of Finance and Economics).
+
+

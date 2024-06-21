@@ -30,7 +30,7 @@ There will be a single poster session per day. The session takes place during tw
 
 There will be two social events:
 
-+ Welcome Reception: Monday 24 June, 19:00-21:00 [@Loetje Delft](https://www.google.com/maps/place/Loetje+Delft/@52.0066161,4.3552135,16z/data=!4m6!3m5!1s0x47c5b5124d2fb7c1:0x2498d3d454471ddc!8m2!3d52.0066161!4d4.3603633!16s%2Fg%2F11lryfs42l?entry=ttu)
++ Welcome Reception: Monday 24 June, 19:00-21:30 [@Loetje Delft](https://www.google.com/maps/place/Loetje+Delft/@52.0066161,4.3552135,16z/data=!4m6!3m5!1s0x47c5b5124d2fb7c1:0x2498d3d454471ddc!8m2!3d52.0066161!4d4.3603633!16s%2Fg%2F11lryfs42l?entry=ttu)
 + Conference Banquet: Tuesday 25 June, 18:00-23:00 [@Heinde Delft](https://www.google.com/maps/place/Heinde+Delft/@52.0159234,4.3455105,17z/data=!3m1!4b1!4m6!3m5!1s0x47c5b5ad43f42cd5:0x36a8a0a343e4bde3!8m2!3d52.0159234!4d4.3455105!16s%2Fg%2F11fhy2swcv?entry=ttu)
 
 

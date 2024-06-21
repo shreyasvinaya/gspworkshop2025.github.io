@@ -17,7 +17,7 @@ top_image_alt: "Delft University of Technology"
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/at-a-glance.png" title="Program at a glance" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp24/at-a-glance.jpg" title="Program at a glance" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 </div>
 
@@ -27,6 +27,11 @@ top_image_alt: "Delft University of Technology"
 Lectures in the oral sessions are 20-minutes long (including Q&As). The format of posters is flexible, but A0 size and portrait orientation are recommended.
 
 There will be a single poster session per day. The session takes place during two different time slots (13h00 to 14h00 and 15h00 to 16h00) but the posters will be the same.
+
+There will be two social events:
+
++ Welcome Reception: Monday 24 June, 19:00-21:00 [@Loetje Delft](https://www.google.com/maps/place/Loetje+Delft/@52.0066161,4.3552135,16z/data=!4m6!3m5!1s0x47c5b5124d2fb7c1:0x2498d3d454471ddc!8m2!3d52.0066161!4d4.3603633!16s%2Fg%2F11lryfs42l?entry=ttu)
++ Conference Banquet: Tuesday 25 June, 18:00-23:00 [@Heinde Delft](https://www.google.com/maps/place/Heinde+Delft/@52.0159234,4.3455105,17z/data=!3m1!4b1!4m6!3m5!1s0x47c5b5ad43f42cd5:0x36a8a0a343e4bde3!8m2!3d52.0159234!4d4.3455105!16s%2Fg%2F11fhy2swcv?entry=ttu)
 
 
 ---
@@ -90,17 +95,17 @@ There will be a single poster session per day. The session takes place during tw
 #### Oral Sessions
 
 #### Oral Session Mon-AM (Monday 10:30 - 12:30) - Network Topology Inference
-+ A Novel Smoothness Prior for Hypergraph Machine Learning.
-Bohan Tang (University of Oxford), Siheng Chen (Shanghai Jiao Tong University, Shanghai AI Laboratory), Xiaowen Dong (University of Oxford).
++ Polynomial graphical lasso and generalizations.
+A. G. Marques (Rey Juan Carlos University), A. Buciulea (Rey Juan Carlos University), J. Ying (The Hong Kong University of Science and Technology), and D.P. Palomar (The Hong Kong University of Science and Technology).
 + Mitigating subpopulation bias for fair network topology inference.
 Madeline Navarro (Rice University), Samuel Rey (Rey Juan Carlos University), Andrei Buciulea Vlas (Universidad Rey Juan Carlos), Antonio G. Marques (Rey Juan Carlos University), Santiago Segarra (Rice University).
 + Inferring the Topology of a Networked Dynamical Systems.
 Augusto A Santos (Instituto de Telecomunica  es), Jos  M. F. Moura (Carnegie Mellon University).
 + Sampling and Consensus for Anomalous Edge Detection.
 Abdullah Karaaslanli (Michigan State University), Panagiotis Traganitis (Michigan State University), Selin Aviyente (Michigan State University).
-+Introducing Graph Learning over Polytopic Uncertain Graph.
++ Introducing Graph Learning over Polytopic Uncertain Graph.
 Masako Kishida (National Institute of Informatics), Shunsuke Ono (Tokyo Institute of Technology).
-+Laplacian-Constrained Cram r-Rao Bound for Networks Applications.
++ Laplacian-Constrained Cramer-Rao Bound for Networks Applications.
 Morad Halihal (Ben-Gurion University of the Negev), Tirza S Routtenberg (Ben Gurion University of the Negev).
 
 #### Oral Session Mon-PM (Monday 16:00 - 17:40) - Graph filters
@@ -137,7 +142,7 @@ Samuel Rey (Rey Juan Carlos University), T. Mitchell Roddenberry (Rice Universit
 + Heterogeneous Graph Structure Learning: A Statistical Perspective.
 Keyue Jiang (University College London), Bohan Tang (University of Oxford), Laura Toni (UCL), Xiaowen Dong (University of Oxford).
 + Graph Structure Learning with Interpretable Bayesian Neural Networks.
-Max Wasserman (University of Rochester), Gonzalo Matoes (University of Rochester).
+Max Wasserman (University of Rochester), Gonzalo Mateos (University of Rochester).
  
 #### Oral Session Wed-AM (Wednesday 10:30 - 12:30) - Geometric deep learning
 + Online Time Covariance Neural Networks.
@@ -156,7 +161,7 @@ Hiren Madhu (Indian Institute of Science, Bengaluru), Sravanthi Gurugubelli (Ind
 #### Oral Session Wed-PM (Wednesday 16:00 - 17:40) - GSP Theory and Methods 
 + Quantile-based fitting for graph signals.
 Kyusoon Kim (Seoul National University).
-+ M bius Total Variation for Directed Acyclic Graph.
++ Mobius Total Variation for Directed Acyclic Graph.
 Vedran Mihal (ETH Zurich), Markus P schel (ETH Zurich).
 + Median Autoregressive Graph Filters.
 David Tay (Deakin University).
@@ -218,7 +223,7 @@ Bishwadeep Das (TU Delft), Andrei Buciulea Vlas (Rey Juan Carlos University), An
 + Hodge-Compositional Edge Gaussian Processes.
 Maosheng Yang (TU Delft), Viacheslav Borovitskiy (ETH Z rich), Elvin Isufi (Tu Delft).
 + Estimators for Connection-Laplacian-Based Linear Algebra.
-H go Jaquard (GIPSA-lab), Nicolas Tremblay (CNRS), Simon Barthelm  (CNRS), Pierre-Olivier Amblard (CNRS).
+Hugo Jaquard (GIPSA-lab), Nicolas Tremblay (CNRS), Simon Barthelm  (CNRS), Pierre-Olivier Amblard (CNRS).
 + Recovering Missing Node Features with Local Structure-based Embeddings.
 Victor M. Tenorio (Rey Juan Carlos University), Madeline Navarro (Rice University), Santiago Segarra (Rice University) Antonio G. Marques (Rey Juan Carlos University).
 + Seeking universal approximation for continuous counterparts of GNNs on large random graphs.
@@ -241,6 +246,9 @@ Zhongtian Sun (Durham University), Anoushka Harit (Durham University), Alexandra
 Ruben Wijnands (TU Delft), Geert Leus (TU Delft), Borbala Hunyadi (TUDelft).
 + GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation.
 Rui Kumagai (Osaka University), Hayate KOJIMA (Tokyo University of Agriculture and Technology), Hiroshi Higashi (Osaka University), Yuichi Tanaka (Osaka University).
++ A Novel Smoothness Prior for Hypergraph Machine Learning.
+Bohan Tang (University of Oxford), Siheng Chen (Shanghai Jiao Tong University, Shanghai AI Laboratory), Xiaowen Dong (University of Oxford).
+
 
 #### Poster Session 3 (Wednesday 13:00-14h00 & 15h00-16h00) - Erdos 
 + Utilizing graph Fourier transform for automatic Alzheimer s disease detection from EEG signals.

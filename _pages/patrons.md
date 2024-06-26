@@ -65,3 +65,8 @@ MathWorks is the leading developer of mathematical computing software. MATLAB, t
 #### The Ken Kennedy Institute at Rice University
 <a href="https://kenkennedy.rice.edu/"><img id = 'rice_logo' class="img-fluid" src="/assets/img/logos/ricelogo.png" style="margin: 10px 10px 10px 10px;"></a>
 
+---
+#### Ellis Unit Madrid
+<a href="https://ellismadrid.es/"><img id = 'rice_logo' class="img-fluid" src="/assets/img/logos/ellislogo.png" style="margin: 10px 10px 10px 10px;"></a>
+
+

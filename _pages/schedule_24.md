@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /2024/schedule/
 title: "Program"
 description: 
-nav: true
-nav_order: 0
+nav: false
 
 top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"

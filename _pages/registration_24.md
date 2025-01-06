@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /registration/
+permalink: /2024/registration/
 title: Registration
 description:
-nav: true
-nav_order: 2
+nav: false
 
 top_image: /assets/img/gsp24/delft.jpg
 top_image_alt: "Delft, The Netherlands"

@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /call_for_papers/
+permalink: /2024/call_for_papers/
 title: "Call for papers"
 description: 
-nav: true
-nav_order: 3
+nav: false
 
 top_image: /assets/img/gsp24/delft.jpg
 top_image_alt: "Delft, The Netherlands."

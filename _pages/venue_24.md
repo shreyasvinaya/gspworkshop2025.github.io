@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /venue/
+permalink: /2024/venue/
 title: Venue
 description: 
-nav: true
-nav_order: 1
+nav: false
 
 top_image: /assets/img/gsp24/university.jpg
 top_image_alt: "Delft University of Technology"

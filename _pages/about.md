@@ -58,7 +58,7 @@ GSP 2025 is kindly supported by [TODO: insert sponsors].
 + [Guy Wolf](http://guywolf.org) (Université de Montréal/Mila)
 + [Jian Tang](https://jian-tang.com) (HEC Montréal/Mila)
 + [Noam Aigerman](https://noamaig.github.io) (Université de Montréal/Mila)
-+ Karina Anichkina, Local coordinator & Social chair
++ [Karina Anichkina](mailto:karina.wolf@umontreal.ca) (Université de Montréal), Local coordinator & Social chair
 
 ---
 

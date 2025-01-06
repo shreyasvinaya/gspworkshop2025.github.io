@@ -65,7 +65,7 @@ GSP 2025 is kindly supported by [TODO: insert sponsors].
 #### Student Organizers
 
 + [Rahul Singh](https://rahulsinghchandraul.github.io) (Yale), Special sessions
-+ Shreyas V, Special sessions
++ Shreyas V [TODO], Special sessions
 + [Rishabh Anand](https://rish-16.github.io) (Yale), Publicity
 + [Danqi Liao](https://danqi7.github.io) (Yale), Publicity
 + [Semih Cantürk](https://semihcanturk.github.io) (Université de Montréal/Mila),  Website & Registration
